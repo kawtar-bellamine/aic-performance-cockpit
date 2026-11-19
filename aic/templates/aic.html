@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pilotage de la performance · AIC</title>
+<style>
+@font-face { font-family: "InterL"; src: url("fonts/Inter-Regular.otf"); font-weight: 400; }
+@font-face { font-family: "InterL"; src: url("fonts/Inter-Medium.otf"); font-weight: 500; }
+@font-face { font-family: "InterL"; src: url("fonts/Inter-SemiBold.otf"); font-weight: 600; }
+@font-face { font-family: "InterL"; src: url("fonts/Inter-Bold.otf"); font-weight: 700; }
+:root { --bg:#F3F5F8; --card:#FFFFFF; --ink:#13233A; --muted:#66768A; --line:#E3E8EE; --soft:#F6F8FA;
+        --teal:#1F7A8C; --green:#2E8B57; --amber:#D99A1E; --red:#C0392B; --grey:#C9D1DB; --navy:#13233A; --bar:#13233A; }
+body.dark { --bg:#0B1322; --card:#121D31; --ink:#EAF0F7; --muted:#8FA1B7; --line:#22304A; --soft:#17243B; --grey:#3A4A63; --bar:#6F8DB5; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); font:14px/1.45 "InterL", "Inter", system-ui, sans-serif; transition: background .3s; }
+header { display:flex; align-items:center; gap:24px; padding:18px 32px; background:var(--navy); color:#fff; flex-wrap:wrap; }
+header h1 { font-size:19px; font-weight:600; margin:0; letter-spacing:.01em; }
+header .sub { font-size:12px; color:#9FB0C6; }
+.tabs { display:flex; gap:6px; margin-left:auto; }
+.tab { padding:7px 14px; border-radius:20px; border:1px solid #33465F; color:#C9D5E3; cursor:pointer; font-weight:500; font-size:13px; }
+.tab.on { background:#fff; color:var(--navy); border-color:#fff; }
+select, button.tg { background:#1C2E47; color:#fff; border:1px solid #33465F; border-radius:8px; padding:7px 10px; font:inherit; font-size:13px; cursor:pointer; }
+main { padding:24px 32px 40px; display:grid; gap:18px; grid-template-columns: repeat(12, 1fr); max-width:1500px; margin:0 auto; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 20px; box-shadow: 0 1px 2px rgba(19,35,58,.04); }
+.card h2 { font-size:13px; text-transform:uppercase; letter-spacing:.09em; color:var(--muted); margin:0 0 12px; font-weight:600; }
+.sqcdp { grid-column: span 12; display:grid; grid-template-columns: repeat(5, 1fr); gap:18px; }
+.k { display:flex; gap:14px; align-items:flex-start; }
+.badge { width:36px; height:36px; border-radius:10px; display:grid; place-items:center; font-weight:700; color:#fff; flex:none; font-size:16px; }
+.kv { font-size:28px; font-weight:700; letter-spacing:-.02em; line-height:1.1; }
+.kl { font-size:12px; color:var(--muted); }
+.ks { font-size:12px; margin-top:6px; color:var(--muted); }
+.bar { height:6px; background:var(--soft); border-radius:6px; margin-top:8px; overflow:hidden; }
+.bar > i { display:block; height:100%; border-radius:6px; }
+.g1 { grid-column: span 7; } .g2 { grid-column: span 5; } .g3 { grid-column: span 8; } .g4 { grid-column: span 4; }
+.g5 { grid-column: span 5; } .g6 { grid-column: span 7; }
+.ring { display:flex; gap:26px; align-items:center; }
+.legend { display:flex; gap:16px; font-size:12px; color:var(--muted); margin-top:6px; flex-wrap:wrap; }
+.legend i { display:inline-block; width:10px; height:10px; border-radius:3px; margin-right:6px; vertical-align:-1px; }
+table { width:100%; border-collapse:collapse; font-size:12.5px; }
+th { text-align:left; color:var(--muted); font-weight:600; font-size:11px; text-transform:uppercase; letter-spacing:.06em; padding:6px 8px; border-bottom:1px solid var(--line); }
+td { padding:8px; border-bottom:1px solid var(--line); vertical-align:top; }
+.pill { font-size:11px; padding:2px 8px; border-radius:10px; font-weight:600; white-space:nowrap; }
+.late { background:rgba(192,57,43,.12); color:var(--red); } .ok { background:rgba(46,139,87,.12); color:var(--green); }
+.top3 { display:grid; gap:12px; }
+.t3 { display:grid; grid-template-columns: 26px 1fr 64px; gap:10px; align-items:center; }
+.t3 .n { width:26px; height:26px; border-radius:50%; display:grid; place-items:center; background:var(--teal); color:#fff; font-weight:700; font-size:12px; }
+.t3 .nm { font-weight:600; }
+.note { font-size:12px; color:var(--muted); margin-top:14px; padding:10px 12px; background:var(--soft); border-radius:10px; border-left:3px solid var(--teal); }
+.cross { display:grid; grid-template-columns: repeat(7, 34px); grid-auto-rows:34px; gap:3px; justify-content:center; margin-top:4px; }
+.cross div { border-radius:6px; display:grid; place-items:center; font-size:12px; font-weight:600; color:#fff; }
+.g7 { grid-column: span 7; } .g8 { grid-column: span 5; }
+.ba { display:grid; grid-template-columns: 1fr 1fr 1fr; gap:14px; margin-top:4px; }
+.ba .card2 { background:var(--soft); border-radius:12px; padding:12px 14px; }
+.cmp { display:grid; grid-template-columns: 70px 1fr 60px; gap:8px; align-items:center; margin:6px 0; font-size:12px; }
+.cmp .tr { height:14px; background:var(--soft); border-radius:7px; overflow:hidden; } .cmp .tr i { display:block; height:100%; border-radius:7px; }
+.mt td.sel { font-weight:700; color:var(--teal); }
+.tw { overflow-x:auto; }
+@media (max-width: 700px) {
+  header { padding:14px 16px; gap:10px; } .tabs { margin-left:0; } main { padding:14px 12px 30px; gap:12px; }
+  .sqcdp { grid-template-columns: 1fr !important; gap:12px; } .tabs { width:100%; } .tab { flex:1; text-align:center; } header > div:first-child { width:100%; } .ring { flex-direction:column; align-items:stretch; }
+  .ba { grid-template-columns: 1fr; } .card { padding:14px; } select, button.tg { flex:1; }
+}
+* { min-width:0; }
+footer { grid-column: span 12; text-align:center; font-size:11px; color:var(--muted); letter-spacing:.06em; text-transform:uppercase; margin-top:6px; }
+svg text { font-family: "InterL", "Inter", system-ui, sans-serif; fill: var(--muted); }
+@media (max-width: 1100px) { .sqcdp { grid-template-columns: repeat(2, 1fr); } .g1,.g2,.g3,.g4,.g5,.g6,.g7,.g8 { grid-column: span 12; } }
+</style>
+</head>
+<body>
+<header>
+  <div><h1>Pilotage de la performance · AIC</h1><div class="sub">Usine de démonstration · 3 lignes · 2 équipes · données entièrement fictives</div></div>
+  <div class="tabs" id="tabs"></div>
+  <select id="day" title="Jour analysé"></select>
+  <button class="tg" id="mode">Mode écran d'atelier</button>
+</header>
+<main>
+  <section class="sqcdp" id="sqcdp"></section>
+  <section class="card g1"><h2 id="h-trs">TRS de la veille</h2><div class="ring" id="ring"></div></section>
+  <section class="card g2"><h2>Top 3 des arrêts de la veille</h2><div class="top3" id="top3"></div>
+    <div class="note">Règle d'animation : un arrêt du top 3 sans action ouverte donne une action décidée aujourd'hui, avec un pilote et une échéance.</div></section>
+  <section class="card g3"><h2>TRS jour par jour, 30 derniers jours ouvrés</h2><div id="trend"></div>
+    <div class="legend"><span><i style="background:var(--teal)"></i>TRS du jour</span><span><i style="background:var(--ink)"></i>Moyenne glissante 5 jours</span><span><i style="background:var(--red)"></i>Cible</span></div></section>
+  <section class="card g4"><h2 id="h-cross">Croix sécurité</h2><div class="cross" id="cross"></div>
+    <div class="legend" style="justify-content:center"><span><i style="background:var(--green)"></i>Sans événement</span><span><i style="background:var(--amber)"></i>Presque-accident</span><span><i style="background:var(--red)"></i>Accident</span></div></section>
+  <section class="card g5"><h2>Pareto des arrêts, 4 dernières semaines</h2><div id="pareto"></div></section>
+  <section class="card g6"><h2 id="h-act">Plan d'actions</h2><div id="actions" class="tw"></div></section>
+  <section class="card g7"><h2 id="h-gain">Mesure des gains d'une action</h2><div id="gain"></div></section>
+  <section class="card g8"><h2>Maintenance : pannes sur 12 semaines</h2><div id="maint"></div></section>
+  <footer>Données de démonstration, entièrement fictives · mêmes règles de calcul que le classeur Excel, vérifiées par des tests</footer>
+</main>
+<script>
+const D = __DATA__;
+const LN = Object.fromEntries(D.lines.map(l => [l.code, l]));
+const pct = v => (100 * v).toFixed(1).replace(".", ",") + " %";
+const nf = v => new Intl.NumberFormat("fr-FR").format(Math.round(v));
+const fd = s => new Date(s).toLocaleDateString("fr-FR", {weekday: "long", day: "numeric", month: "long"});
+const fds = s => new Date(s).toLocaleDateString("fr-FR", {day: "2-digit", month: "2-digit"});
+const css = v => getComputedStyle(document.body).getPropertyValue(v).trim();
+const days = [...new Set(D.prod.map(r => r[0]))].sort();
+let line = "SITE", day = D.aic_day;
+
+function rows(dayFilter, ln = line) { return D.prod.filter(r => (ln === "SITE" || r[2] === ln) && dayFilter(r[0])); }
+function agg(rs) {
+  let req = 0, pcs = 0, good = 0, stop = 0, ut = 0, perfLoss = 0, qLoss = 0;
+  for (const [d, s, l, rq, p, g, a] of rs) {
+    const c = LN[l].cycle / 60; req += rq; pcs += p; good += g; stop += a; ut += g * c;
+    perfLoss += (rq - a) - p * c; qLoss += (p - g) * c;
+  }
+  return {req, pcs, good, stop, ut, perfLoss, qLoss, trs: req ? ut / req : 0};
+}
+const target = () => line === "SITE" ? D.lines.reduce((s, l) => s + l.target * l.cycle, 0) / D.lines.reduce((s, l) => s + l.cycle, 0) : LN[line].target;
+function siteTarget(dayRows) {           // cible du site pondérée par le temps requis de chaque ligne
+  if (line !== "SITE") return LN[line].target;
+  let w = 0, s = 0; for (const r of dayRows) { w += r[3]; s += r[3] * LN[r[2]].target; } return w ? s / w : 0;
+}
+const color = (v, t) => v >= t ? css("--green") : v >= t - 0.05 ? css("--amber") : css("--red");
+
+function tabs() {
+  const el = document.getElementById("tabs");
+  el.innerHTML = [["SITE", "Site"], ...D.lines.map(l => [l.code, l.code])].map(([k, n]) =>
+    `<div class="tab ${k === line ? "on" : ""}" data-k="${k}">${n}</div>`).join("");
+  el.querySelectorAll(".tab").forEach(t => t.onclick = () => { line = t.dataset.k; render(); });
+}
+
+function daysWithout(refDay) {
+  const ev = D.safety.filter(s => s[2] !== "Presque-accident" && (line === "SITE" || s[1] === line) && s[0] <= refDay);
+  if (!ev.length) return D.weeks * 7;
+  const last = ev.map(s => s[0]).sort().pop();
+  const next = new Date(refDay); next.setDate(next.getDate() + 1);
+  return Math.round((next - new Date(last)) / 864e5);
+}
+
+function sqcdp(a, t, dayRows) {
+  const goal = (line === "SITE" ? D.lines.reduce((s, l) => s + l.goal, 0) : LN[line].goal) * D.shifts.length;
+  const ev = D.safety.filter(s => s[0] === day && (line === "SITE" || s[1] === line));
+  const st = D.stops.filter(s => s[0] === day && (line === "SITE" || s[1] === line));
+  const byC = {}; st.forEach(s => byC[s[2]] = (byC[s[2]] || 0) + s[3]);
+  const topC = Object.entries(byC).sort((x, y) => y[1] - x[1])[0];
+  const acts = D.actions.filter(x => (line === "SITE" || x.ligne === line) && x.statut !== "Soldée");
+  const late = acts.filter(x => x.echeance < D.today).length;
+  const q = a.pcs ? a.good / a.pcs : 0, dw = daysWithout(day);
+  const card = (L, col, v, lab, sub, bar) => `<div class="card k"><div class="badge" style="background:${col}">${L}</div><div style="flex:1">
+      <div class="kv">${v}</div><div class="kl">${lab}</div>${bar || ""}<div class="ks">${sub}</div></div></div>`;
+  document.getElementById("sqcdp").innerHTML =
+    card("S", ev.length ? css("--amber") : css("--green"), dw, "jours sans accident",
+         ev.length ? ev.map(e => e[2].toLowerCase() + " (" + e[1] + ")").join(", ") + " la veille" : "aucun événement la veille") +
+    card("Q", q >= 0.98 ? css("--green") : css("--amber"), pct(q), "taux de qualité", nf(a.pcs - a.good) + " pièces rebutées") +
+    card("P", color(a.good / goal, 1), nf(a.good), "pièces bonnes sur " + nf(goal),
+         Math.round(100 * a.good / goal) + " % de l'objectif",
+         `<div class="bar"><i style="width:${Math.min(100, 100 * a.good / goal)}%;background:${color(a.good / goal, 1)}"></i></div>`) +
+    card("C", css("--teal"), nf(a.stop), "minutes d'arrêt", topC ? "1re cause : " + topC[0].toLowerCase() : "aucun arrêt") +
+    card("A", late ? css("--red") : css("--green"), acts.length, "actions ouvertes", late ? late + " en retard" : "aucune en retard");
+}
+
+function ring(a, t) {
+  const R = 74, C = 2 * Math.PI * R, v = Math.max(0, Math.min(1, a.trs)), col = color(a.trs, t);
+  const ta = -Math.PI / 2 + 2 * Math.PI * t, tx = 90 + 84 * Math.cos(ta), ty = 90 + 84 * Math.sin(ta), tx2 = 90 + 64 * Math.cos(ta), ty2 = 90 + 64 * Math.sin(ta);
+  const g = `<svg width="180" height="180" viewBox="0 0 180 180"><circle cx="90" cy="90" r="${R}" fill="none" stroke="${css("--soft")}" stroke-width="16"/>
+    <circle cx="90" cy="90" r="${R}" fill="none" stroke="${col}" stroke-width="16" stroke-linecap="round" stroke-dasharray="${C * v} ${C}" transform="rotate(-90 90 90)"/>
+    <line x1="${tx}" y1="${ty}" x2="${tx2}" y2="${ty2}" stroke="${css("--ink")}" stroke-width="3"/>
+    <text x="90" y="88" text-anchor="middle" style="font-size:30px;font-weight:700;fill:${css("--ink")}">${pct(a.trs)}</text>
+    <text x="90" y="112" text-anchor="middle" style="font-size:12px">cible ${Math.round(100 * t)} %</text></svg>`;
+  // cascade des pertes : temps requis -> arrêts -> ralentissements -> non-qualité -> temps utile
+  const steps = [["Temps requis", a.req, 0, css("--bar")], ["Arrêts", a.stop, a.req - a.stop, css("--red")],
+                 ["Ralentissements", a.perfLoss, a.req - a.stop - a.perfLoss, css("--amber")],
+                 ["Non-qualité", a.qLoss, a.ut, css("--grey")], ["Temps utile", a.ut, 0, css("--teal")]];
+  const W = 470, H = 190, bw = 62, gap = (W - 20 - steps.length * bw) / (steps.length - 1), sc = (H - 50) / a.req;
+  let s = `<svg width="100%" viewBox="0 0 ${W} ${H}">`;
+  steps.forEach(([lab, val, base, col], i) => {
+    const x = 10 + i * (bw + gap), y = H - 30 - (base + val) * sc, h = Math.max(1.5, val * sc);
+    s += `<rect x="${x}" y="${y}" width="${bw}" height="${h}" rx="4" fill="${col}"/>`;
+    s += `<text x="${x + bw / 2}" y="${y - 6}" text-anchor="middle" style="font-size:11px;font-weight:600;fill:${css("--ink")}">${nf(val)} min</text>`;
+    s += `<text x="${x + bw / 2}" y="${H - 12}" text-anchor="middle" style="font-size:10.5px">${lab}</text>`;
+    if (i < steps.length - 1) { const yy = H - 30 - (i === 0 ? a.req : base) * sc; s += `<line x1="${x + bw}" x2="${x + bw + gap}" y1="${yy}" y2="${yy}" stroke="${css("--line")}" stroke-dasharray="3 3"/>`; }
+  });
+  s += "</svg>";
+  const dsp = a.req ? (a.req - a.stop) / a.req : 0, prf = (a.req - a.stop) ? (a.req - a.stop - a.perfLoss) / (a.req - a.stop) : 0, ql = a.pcs ? a.good / a.pcs : 0;
+  document.getElementById("ring").innerHTML = `<div>${g}<div class="legend" style="justify-content:center">Disponibilité ${pct(dsp)} · Performance ${pct(prf)} · Qualité ${pct(ql)}</div></div>
+    <div style="flex:1"><div class="kl" style="margin-bottom:6px">Où part le temps de production</div>${s}</div>`;
+}
+
+function top3() {
+  const st = D.stops.filter(s => s[0] === day && (line === "SITE" || s[1] === line));
+  const byC = {}; st.forEach(s => byC[s[2]] = (byC[s[2]] || 0) + s[3]);
+  const t = Object.entries(byC).sort((x, y) => y[1] - x[1]).slice(0, 3), mx = t.length ? t[0][1] : 1;
+  const open = D.actions.filter(x => x.statut !== "Soldée" && (line === "SITE" || x.ligne === line));
+  document.getElementById("top3").innerHTML = t.length ? t.map(([c, m], i) => {
+    const kw = c.split(" ")[0].toLowerCase().slice(0, 6);
+    const has = open.some(x => x.probleme.toLowerCase().includes(kw));
+    return `<div class="t3"><div class="n">${i + 1}</div><div><div class="nm">${c}</div>
+      <div class="bar"><i style="width:${100 * m / mx}%;background:var(--teal)"></i></div>
+      <div class="ks">${has ? "action déjà ouverte" : "<b style='color:var(--red)'>aucune action ouverte : à décider</b>"}</div></div>
+      <div class="kv" style="font-size:20px;text-align:right">${m}<span class="kl"> min</span></div></div>`;
+  }).join("") : `<div class="kl">Aucun arrêt enregistré ce jour.</div>`;
+}
+
+function trend() {
+  const i0 = days.indexOf(day), ds = days.slice(Math.max(0, i0 - 29), i0 + 1);
+  const pts = ds.map(d => { const r = rows(x => x === d); return [d, agg(r).trs, siteTarget(r)]; });
+  const W = 760, H = 220, pl = 40, pb = 26, lo = 0.4, hi = 1.0;
+  const x = i => pl + i * (W - pl - 10) / Math.max(1, pts.length - 1), y = v => 10 + (hi - v) / (hi - lo) * (H - pb - 10);
+  let s = `<svg width="100%" viewBox="0 0 ${W} ${H}">`;
+  for (let g = 0.4; g <= 1.001; g += 0.1) s += `<line x1="${pl}" x2="${W - 10}" y1="${y(g)}" y2="${y(g)}" stroke="${css("--line")}"/><text x="${pl - 6}" y="${y(g) + 4}" text-anchor="end" style="font-size:10px">${Math.round(g * 100)}%</text>`;
+  s += `<polyline fill="none" stroke="${css("--red")}" stroke-width="1.5" stroke-dasharray="5 4" points="${pts.map((p, i) => x(i) + "," + y(p[2])).join(" ")}"/>`;
+  const area = pts.map((p, i) => x(i) + "," + y(p[1])).join(" ");
+  s += `<polygon fill="${css("--teal")}" opacity=".08" points="${x(0)},${y(lo)} ${area} ${x(pts.length - 1)},${y(lo)}"/>`;
+  s += `<polyline fill="none" stroke="${css("--teal")}" stroke-width="2.2" points="${area}"/>`;
+  const ma = pts.map((p, i) => { const w = pts.slice(Math.max(0, i - 4), i + 1); return w.reduce((a, b) => a + b[1], 0) / w.length; });
+  s += `<polyline fill="none" stroke="${css("--ink")}" stroke-width="1.6" opacity=".7" points="${ma.map((v, i) => x(i) + "," + y(v)).join(" ")}"/>`;
+  pts.forEach((p, i) => { s += `<circle cx="${x(i)}" cy="${y(p[1])}" r="${i === pts.length - 1 ? 5 : 3}" fill="${color(p[1], p[2])}"><title>${fds(p[0])} : ${pct(p[1])}</title></circle>`;
+    if (i % 5 === 0 || i === pts.length - 1) s += `<text x="${x(i)}" y="${H - 6}" text-anchor="middle" style="font-size:10px">${fds(p[0])}</text>`; });
+  document.getElementById("trend").innerHTML = s + "</svg>";
+}
+
+function cross() {
+  const d0 = new Date(day), y = d0.getFullYear(), m = d0.getMonth(), n = new Date(y, m + 1, 0).getDate();
+  const cells = []; for (let r = 0; r < 7; r++) for (let c = 0; c < 7; c++) if ((c >= 2 && c <= 4) || (r >= 2 && r <= 4)) cells.push([r, c]);
+  let h = "";
+  for (let i = 0; i < n; i++) {
+    const dd = new Date(y, m, i + 1), iso = `${y}-${String(m + 1).padStart(2, "0")}-${String(i + 1).padStart(2, "0")}`;
+    const ev = D.safety.filter(s => s[0] === iso && (line === "SITE" || s[1] === line));
+    let col = css("--green");
+    if (iso > day || dd.getDay() === 0 || dd.getDay() === 6) col = css("--grey");
+    else if (ev.some(e => e[2] !== "Presque-accident")) col = css("--red");
+    else if (ev.length) col = css("--amber");
+    const [r, c] = cells[i];
+    h += `<div style="grid-row:${r + 1};grid-column:${c + 1};background:${col}" title="${iso}${ev.length ? " : " + ev.map(e => e[2]).join(", ") : ""}">${i + 1}</div>`;
+  }
+  document.getElementById("cross").innerHTML = h;
+  document.getElementById("h-cross").textContent = "Croix sécurité · " + d0.toLocaleDateString("fr-FR", {month: "long", year: "numeric"});
+}
+
+function pareto() {
+  const end = new Date(day), start = new Date(end); start.setDate(start.getDate() - 27);
+  const s0 = start.toISOString().slice(0, 10);
+  const st = D.stops.filter(s => s[0] >= s0 && s[0] <= day && (line === "SITE" || s[1] === line));
+  const byC = {}; st.forEach(s => byC[s[2]] = (byC[s[2]] || 0) + s[3] / 60);
+  const t = Object.entries(byC).sort((a, b) => b[1] - a[1]), tot = t.reduce((a, b) => a + b[1], 0) || 1;
+  const W = 520, H = 230, pl = 10, pb = 58, bw = (W - 2 * pl) / t.length, mx = t.length ? t[0][1] : 1;
+  let s = `<svg width="100%" viewBox="0 0 ${W} ${H}">`, cum = 0, pts = [];
+  t.forEach(([c, v], i) => { const x = pl + i * bw, h = v / mx * (H - pb - 24); cum += v;
+    s += `<rect x="${x + 6}" y="${H - pb - h}" width="${bw - 12}" height="${h}" rx="4" fill="${i < 3 ? css("--bar") : css("--grey")}"/>`;
+    s += `<text x="${x + bw / 2}" y="${H - pb - h - 5}" text-anchor="middle" style="font-size:10.5px;font-weight:600;fill:${css("--ink")}">${v.toFixed(1).replace(".", ",")} h</text>`;
+    const w = c.split(" "), l1 = w[0], l2 = w.slice(1).join(" ");
+    s += `<text x="${x + bw / 2}" y="${H - pb + 14}" text-anchor="middle" style="font-size:9.5px">${l1}</text>`;
+    if (l2) s += `<text x="${x + bw / 2}" y="${H - pb + 26}" text-anchor="middle" style="font-size:9.5px">${l2}</text>`;
+    pts.push([x + bw / 2, 12 + (1 - cum / tot) * (H - pb - 24)]); });
+  s += `<polyline fill="none" stroke="${css("--red")}" stroke-width="1.6" points="${pts.map(p => p.join(",")).join(" ")}"/>`;
+  pts.forEach(p => s += `<circle cx="${p[0]}" cy="${p[1]}" r="2.6" fill="${css("--red")}"/>`);
+  s += `<text x="${W - pl}" y="${H - 6}" text-anchor="end" style="font-size:10px;fill:${css("--red")}">% cumulé</text>`;
+  document.getElementById("pareto").innerHTML = s + "</svg>";
+}
+
+function actions() {
+  const a = D.actions.filter(x => (line === "SITE" || x.ligne === line) && x.statut !== "Soldée")
+    .sort((x, y) => x.echeance.localeCompare(y.echeance));
+  const done = D.actions.filter(x => (line === "SITE" || x.ligne === line) && x.statut === "Soldée").length;
+  const all = D.actions.filter(x => line === "SITE" || x.ligne === line).length;
+  document.getElementById("h-act").textContent = `Plan d'actions · ${a.length} ouvertes · ${Math.round(100 * done / (all || 1))} % soldées`;
+  document.getElementById("actions").innerHTML = `<table><tr><th>N°</th><th>Ligne</th><th>Problème et action</th><th>Pilote</th><th>Échéance</th><th></th></tr>` +
+    a.slice(0, 8).map(x => { const late = x.echeance < D.today;
+      return `<tr><td>${x.id}</td><td>${x.ligne}</td><td><b>${x.probleme}</b><div class="ks" style="margin-top:2px">${x.action}</div></td><td>${x.pilote}</td>
+        <td>${fds(x.echeance)}</td><td><span class="pill ${late ? "late" : "ok"}">${late ? "en retard" : x.statut.toLowerCase()}</span></td></tr>`; }).join("") + "</table>";
+}
+
+
+function gain() {
+  const g = D.gain, av = g.avant, ap = g.apres, mx = Math.max(av.min_par_equipe, ap.min_par_equipe) || 1;
+  document.getElementById("h-gain").textContent = `Mesure des gains · ${g.line} · ${g.action}`;
+  const bar = (lab, v, max, col, txt) => `<div class="cmp"><span class="kl">${lab}</span><div class="tr"><i style="width:${100 * v / max}%;background:${col}"></i></div><b style="text-align:right">${txt}</b></div>`;
+  document.getElementById("gain").innerHTML = `<div class="kl">${g.cause}, mise en place le ${fd(g.start)}, fenêtres de ${g.weeks} semaines avant et après</div>
+    <div class="ba">
+      <div class="card2"><div class="kl">Minutes de ${g.cause.toLowerCase()} par équipe</div>
+        ${bar("Avant", av.min_par_equipe, mx, css("--grey"), av.min_par_equipe.toFixed(1).replace(".", ",") + " min")}
+        ${bar("Après", ap.min_par_equipe, mx, css("--teal"), ap.min_par_equipe.toFixed(1).replace(".", ",") + " min")}</div>
+      <div class="card2"><div class="kl">TRS de la ligne</div>
+        ${bar("Avant", av.trs, 1, css("--grey"), pct(av.trs))}${bar("Après", ap.trs, 1, css("--teal"), pct(ap.trs))}</div>
+      <div class="card2"><div class="kv" style="color:var(--green)">+${g.gain_trs_pts.toFixed(1).replace(".", ",")} pts</div><div class="kl">de TRS</div>
+        <div class="ks"><b>${nf(g.heures_an)} h</b> libérées par an, soit <b>${nf(g.pieces_an)}</b> pièces bonnes en plus</div></div>
+    </div><div class="note">Même règle que l'onglet « Mesure des gains » du classeur : on compare des fenêtres de même durée, et le gain annuel reste une estimation à confirmer par le suivi du TRS.</div>`;
+}
+
+function maint() {
+  const rows = D.lines.map(l => { const m = D.maintenance[l.code], sel = line === l.code;
+    return `<tr><td class="${sel ? "sel" : ""}">${l.code}</td><td>${m.pannes}</td><td>${m.mttr.toFixed(1).replace(".", ",")} min</td><td>${m.mtbf.toFixed(1).replace(".", ",")} h</td>
+      <td><div class="bar" style="margin-top:4px"><i style="width:${Math.min(100, 100 * m.mtbf / 15)}%;background:${m.mtbf < 6 ? css("--red") : css("--teal")}"></i></div></td></tr>`; }).join("");
+  document.getElementById("maint").innerHTML = `<table class="mt"><tr><th>Ligne</th><th>Pannes</th><th>MTTR</th><th>MTBF</th><th style="width:35%">Fiabilité</th></tr>${rows}</table>
+    <div class="note">MTBF : temps de fonctionnement moyen entre deux pannes. La ligne 3 tombe en panne toutes les 4 heures de marche : c'est la priorité de la maintenance.</div>`;
+}
+
+function render() {
+  tabs();
+  const dr = rows(d => d === day), a = agg(dr), t = siteTarget(dr);
+  document.getElementById("h-trs").textContent = `TRS du ${fd(day)} · ${line === "SITE" ? "site" : LN[line].name}`;
+  sqcdp(a, t, dr); ring(a, t); top3(); trend(); cross(); pareto(); actions(); gain(); maint();
+}
+
+const sel = document.getElementById("day");
+sel.innerHTML = days.slice().reverse().map(d => `<option value="${d}" ${d === day ? "selected" : ""}>${fd(d)}</option>`).join("");
+sel.onchange = () => { day = sel.value; render(); };
+document.getElementById("mode").onclick = () => { document.body.classList.toggle("dark"); render(); };
+render();
+</script>
+</body>
+</html>

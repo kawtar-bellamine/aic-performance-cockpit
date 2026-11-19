@@ -1,0 +1,49 @@
+// Mesures DAX : coller dans une table de mesures « _Mesures »
+Temps requis (min) = SUM ( fait_production[temps_requis] )
+Arrêts (min) = SUM ( fait_production[arrets] )
+Temps utile (min) = SUM ( fait_production[temps_utile] )
+Pièces produites = SUM ( fait_production[pieces] )
+Pièces bonnes = SUM ( fait_production[bonnes] )
+
+TRS = DIVIDE ( [Temps utile (min)], [Temps requis (min)] )
+Disponibilité = DIVIDE ( [Temps requis (min)] - [Arrêts (min)], [Temps requis (min)] )
+Qualité = DIVIDE ( [Pièces bonnes], [Pièces produites] )
+Performance = DIVIDE ( [TRS], [Disponibilité] * [Qualité] )
+
+TRS cible =
+    DIVIDE (
+        SUMX ( fait_production, fait_production[temps_requis] * RELATED ( dim_ligne[trs_cible] ) ),
+        [Temps requis (min)]
+    )
+Écart à la cible (pts) = ( [TRS] - [TRS cible] ) * 100
+Couleur TRS =
+    SWITCH ( TRUE (),
+        [TRS] >= [TRS cible], "#2E8B57",
+        [TRS] >= [TRS cible] - 0.05, "#D99A1E",
+        "#C0392B" )
+
+Heures d'arrêt (cause) = DIVIDE ( SUM ( fait_arrets[duree] ), 60 )
+% cumulé Pareto =
+    VAR h = [Heures d'arrêt (cause)]
+    VAR tot = CALCULATE ( [Heures d'arrêt (cause)], ALL ( dim_cause ) )
+    VAR cum = SUMX ( FILTER ( ALL ( dim_cause ), [Heures d'arrêt (cause)] >= h ), [Heures d'arrêt (cause)] )
+    RETURN DIVIDE ( cum, tot )
+
+Pannes = CALCULATE ( COUNTROWS ( fait_arrets ), dim_cause[famille] = "Panne" )
+MTTR (min) = DIVIDE ( CALCULATE ( SUM ( fait_arrets[duree] ), dim_cause[famille] = "Panne" ), [Pannes] )
+MTBF (h) = DIVIDE ( ( [Temps requis (min)] - [Arrêts (min)] ) / 60, [Pannes] )
+
+// Mesure des gains : comparer deux périodes de même durée autour de la date de mise en place d'une action
+Date de mise en place = DATE ( 2026, 10, 9 )
+TRS avant = CALCULATE ( [TRS], DATESINPERIOD ( dim_date[date], [Date de mise en place] - 1, -28, DAY ) )
+TRS après = CALCULATE ( [TRS], DATESINPERIOD ( dim_date[date], [Date de mise en place] + 27, -28, DAY ) )
+Gain de TRS (pts) = ( [TRS après] - [TRS avant] ) * 100
+
+Actions ouvertes = CALCULATE ( COUNTROWS ( fait_actions ), fait_actions[statut] <> "Soldée" )
+Actions en retard =
+    CALCULATE ( COUNTROWS ( fait_actions ), fait_actions[statut] <> "Soldée", fait_actions[echeance] < DATE ( 2026, 11, 20 ) )
+Taux de réalisation des actions = DIVIDE ( CALCULATE ( COUNTROWS ( fait_actions ), fait_actions[statut] = "Soldée" ), COUNTROWS ( fait_actions ) )
+
+Jours sans accident =
+    VAR last = CALCULATE ( MAX ( fait_securite[date] ), fait_securite[type] <> "Presque-accident" )
+    RETURN IF ( ISBLANK ( last ), 84, DATE ( 2026, 11, 20 ) - last )

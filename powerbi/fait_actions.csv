@@ -1,0 +1,38 @@
+id,creation,ligne,probleme,action,pilote,echeance,statut
+A001,2026-08-28,L3,Pannes mécaniques de la broche,Analyse 8D et changement préventif des roulements,C. Fontaine,2026-09-14,Soldée
+A002,2026-08-31,L3,Copeaux au sol autour de la machine,Bac de rétention et nettoyage 5S en fin de poste,M. Leroy,2026-09-23,Soldée
+A003,2026-08-31,L3,Attente de la maintenance,Liste des pièces de rechange critiques au magasin,N. Garcia,2026-09-19,Soldée
+A004,2026-09-01,L2,Soin bénin à la coupe des films,Cutter de sécurité et rappel du port des gants,A. Mercier,2026-09-15,En cours
+A005,2026-09-03,L3,Attente de la maintenance,Liste des pièces de rechange critiques au magasin,A. Mercier,2026-09-14,Soldée
+A006,2026-09-07,L2,Bourrages sur le convoyeur d'entrée,Remplacer les guides usés,M. Leroy,2026-09-25,En cours
+A007,2026-09-08,L2,Nettoyages non planifiés,Intégrer le nettoyage au standard de fin de poste (5S),M. Leroy,2026-09-16,Soldée
+A008,2026-09-08,L3,Pannes mécaniques de la broche,Analyse 8D et changement préventif des roulements,S. Dubois,2026-09-21,Soldée
+A009,2026-09-08,L3,Réglage qualité long au démarrage,Fiche de premier article et réglage de référence,N. Garcia,2026-09-18,En cours
+A010,2026-09-11,L3,Réglage qualité long au démarrage,Fiche de premier article et réglage de référence,N. Garcia,2026-09-27,Soldée
+A011,2026-09-11,L1,Manque de composants au bord de ligne,Kanban deux bacs sur les 12 références critiques,N. Garcia,2026-09-20,Soldée
+A012,2026-09-15,L2,Changement de série long,Atelier SMED : séparer opérations internes et externes,C. Fontaine,2026-10-07,Soldée
+A013,2026-09-18,L2,Micro-arrêts de l'étiqueteuse,Nettoyer et régler les capteurs de présence,N. Garcia,2026-10-01,En cours
+A014,2026-09-18,L2,Nettoyages non planifiés,Intégrer le nettoyage au standard de fin de poste (5S),C. Fontaine,2026-09-24,Soldée
+A015,2026-09-18,L3,Rebuts dimensionnels,Carte de contrôle sur la cote critique,A. Mercier,2026-09-24,Soldée
+A016,2026-09-21,L2,Soin bénin à la coupe des films,Cutter de sécurité et rappel du port des gants,C. Fontaine,2026-10-07,Soldée
+A017,2026-09-23,L1,Presque-accident au chargement des bacs,Abaisser la hauteur de chargement (ergonomie),N. Garcia,2026-09-30,En cours
+A018,2026-09-24,L1,Manque de composants au bord de ligne,Kanban deux bacs sur les 12 références critiques,A. Mercier,2026-10-14,Soldée
+A019,2026-09-25,L1,Changement de série long,Préparer les outillages en temps masqué (SMED),C. Fontaine,2026-10-12,Soldée
+A020,2026-09-28,L3,Rebuts dimensionnels,Carte de contrôle sur la cote critique,N. Garcia,2026-10-19,Soldée
+A021,2026-09-29,L1,Presque-accident au chargement des bacs,Abaisser la hauteur de chargement (ergonomie),N. Garcia,2026-10-23,Soldée
+A022,2026-09-30,L3,Copeaux au sol autour de la machine,Bac de rétention et nettoyage 5S en fin de poste,N. Garcia,2026-10-24,Soldée
+A023,2026-10-02,L1,Manque de composants au bord de ligne,Kanban deux bacs sur les 12 références critiques,N. Garcia,2026-10-25,Soldée
+A024,2026-10-02,L2,Nettoyages non planifiés,Intégrer le nettoyage au standard de fin de poste (5S),A. Mercier,2026-10-16,Soldée
+A025,2026-10-07,L2,Micro-arrêts de l'étiqueteuse,Nettoyer et régler les capteurs de présence,C. Fontaine,2026-10-16,Soldée
+A026,2026-10-08,L2,Bourrages sur le convoyeur d'entrée,Remplacer les guides usés,S. Dubois,2026-10-27,Soldée
+A027,2026-10-22,L1,Changement de série long,Préparer les outillages en temps masqué (SMED),N. Garcia,2026-11-09,Soldée
+A028,2026-10-22,L1,Attentes cariste en fin de poste,Tournée cariste cadencée toutes les 45 min,C. Fontaine,2026-10-28,Soldée
+A029,2026-10-28,L1,Attentes cariste en fin de poste,Tournée cariste cadencée toutes les 45 min,N. Garcia,2026-11-10,Soldée
+A030,2026-10-30,L1,Réglages répétés du poste de vissage,Standard de réglage illustré au poste,M. Leroy,2026-11-19,Ouverte
+A031,2026-11-02,L1,Réglages répétés du poste de vissage,Standard de réglage illustré au poste,C. Fontaine,2026-11-25,Ouverte
+A032,2026-11-09,L3,Copeaux au sol autour de la machine,Bac de rétention et nettoyage 5S en fin de poste,N. Garcia,2026-12-03,Ouverte
+A033,2026-11-13,L3,Pannes mécaniques de la broche,Analyse 8D et changement préventif des roulements,S. Dubois,2026-12-06,Soldée
+A034,2026-11-16,L3,Réglage qualité long au démarrage,Fiche de premier article et réglage de référence,N. Garcia,2026-11-21,Ouverte
+A035,2026-11-17,L2,Changement de série long,Atelier SMED : séparer opérations internes et externes,C. Fontaine,2026-12-05,Soldée
+A036,2026-11-17,L1,Réglages répétés du poste de vissage,Standard de réglage illustré au poste,N. Garcia,2026-12-08,Ouverte
+A037,2026-11-18,L2,Soin bénin à la coupe des films,Cutter de sécurité et rappel du port des gants,S. Dubois,2026-12-04,En cours

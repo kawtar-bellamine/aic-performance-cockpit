@@ -1,0 +1,2545 @@
+date,equipe,ligne,cause,duree
+2026-08-28,Matin,L1,Changement de série,23
+2026-08-28,Matin,L1,Attente cariste,7
+2026-08-28,Matin,L1,Attente cariste,7
+2026-08-28,Matin,L1,Micro-arrêts,2
+2026-08-28,Matin,L1,Micro-arrêts,2
+2026-08-28,Matin,L1,Micro-arrêts,1
+2026-08-28,Matin,L1,Micro-arrêts,3
+2026-08-28,Matin,L1,Micro-arrêts,3
+2026-08-28,Matin,L1,Micro-arrêts,4
+2026-08-28,Matin,L1,Micro-arrêts,3
+2026-08-28,Matin,L2,Changement de série,17
+2026-08-28,Matin,L2,Micro-arrêts,6
+2026-08-28,Matin,L2,Micro-arrêts,5
+2026-08-28,Matin,L2,Micro-arrêts,1
+2026-08-28,Matin,L2,Micro-arrêts,3
+2026-08-28,Matin,L3,Changement de série,19
+2026-08-28,Matin,L3,Micro-arrêts,5
+2026-08-28,Matin,L3,Micro-arrêts,1
+2026-08-28,Matin,L3,Micro-arrêts,1
+2026-08-28,Après-midi,L1,Réglage qualité,21
+2026-08-28,Après-midi,L1,Réglage qualité,17
+2026-08-28,Après-midi,L1,Attente cariste,4
+2026-08-28,Après-midi,L1,Micro-arrêts,2
+2026-08-28,Après-midi,L1,Micro-arrêts,3
+2026-08-28,Après-midi,L1,Micro-arrêts,8
+2026-08-28,Après-midi,L1,Nettoyage non planifié,7
+2026-08-28,Après-midi,L2,Micro-arrêts,1
+2026-08-28,Après-midi,L2,Micro-arrêts,2
+2026-08-28,Après-midi,L2,Micro-arrêts,5
+2026-08-28,Après-midi,L2,Micro-arrêts,6
+2026-08-28,Après-midi,L2,Micro-arrêts,3
+2026-08-28,Après-midi,L2,Micro-arrêts,2
+2026-08-28,Après-midi,L2,Nettoyage non planifié,9
+2026-08-31,Matin,L1,Changement de série,43
+2026-08-31,Matin,L1,Manque matière,32
+2026-08-31,Matin,L1,Micro-arrêts,3
+2026-08-31,Matin,L1,Micro-arrêts,4
+2026-08-31,Matin,L1,Micro-arrêts,5
+2026-08-31,Matin,L1,Micro-arrêts,6
+2026-08-31,Matin,L1,Micro-arrêts,2
+2026-08-31,Matin,L1,Micro-arrêts,2
+2026-08-31,Matin,L1,Nettoyage non planifié,5
+2026-08-31,Matin,L2,Panne mécanique,73
+2026-08-31,Matin,L2,Changement de série,58
+2026-08-31,Matin,L2,Changement de série,35
+2026-08-31,Matin,L2,Attente cariste,7
+2026-08-31,Matin,L2,Micro-arrêts,6
+2026-08-31,Matin,L2,Micro-arrêts,5
+2026-08-31,Matin,L2,Micro-arrêts,3
+2026-08-31,Matin,L2,Micro-arrêts,1
+2026-08-31,Matin,L2,Micro-arrêts,1
+2026-08-31,Matin,L3,Réglage qualité,16
+2026-08-31,Matin,L3,Attente cariste,2
+2026-08-31,Matin,L3,Micro-arrêts,2
+2026-08-31,Matin,L3,Micro-arrêts,6
+2026-08-31,Matin,L3,Micro-arrêts,7
+2026-08-31,Après-midi,L1,Panne mécanique,36
+2026-08-31,Après-midi,L1,Panne mécanique,31
+2026-08-31,Après-midi,L1,Réglage qualité,4
+2026-08-31,Après-midi,L1,Micro-arrêts,5
+2026-08-31,Après-midi,L1,Micro-arrêts,3
+2026-08-31,Après-midi,L1,Micro-arrêts,3
+2026-08-31,Après-midi,L1,Micro-arrêts,4
+2026-08-31,Après-midi,L1,Nettoyage non planifié,27
+2026-08-31,Après-midi,L1,Nettoyage non planifié,8
+2026-08-31,Après-midi,L2,Changement de série,6
+2026-08-31,Après-midi,L2,Changement de série,22
+2026-08-31,Après-midi,L2,Attente cariste,10
+2026-08-31,Après-midi,L2,Micro-arrêts,3
+2026-08-31,Après-midi,L2,Micro-arrêts,2
+2026-08-31,Après-midi,L2,Micro-arrêts,4
+2026-08-31,Après-midi,L3,Panne mécanique,26
+2026-08-31,Après-midi,L3,Changement de série,68
+2026-08-31,Après-midi,L3,Réglage qualité,20
+2026-08-31,Après-midi,L3,Attente cariste,9
+2026-09-01,Matin,L1,Changement de série,18
+2026-09-01,Matin,L1,Manque matière,23
+2026-09-01,Matin,L1,Attente cariste,10
+2026-09-01,Matin,L1,Nettoyage non planifié,32
+2026-09-01,Matin,L2,Micro-arrêts,2
+2026-09-01,Matin,L2,Micro-arrêts,3
+2026-09-01,Matin,L2,Micro-arrêts,4
+2026-09-01,Matin,L2,Micro-arrêts,2
+2026-09-01,Matin,L2,Micro-arrêts,4
+2026-09-01,Matin,L2,Micro-arrêts,1
+2026-09-01,Matin,L2,Micro-arrêts,3
+2026-09-01,Matin,L2,Micro-arrêts,1
+2026-09-01,Matin,L2,Micro-arrêts,2
+2026-09-01,Matin,L2,Nettoyage non planifié,28
+2026-09-01,Matin,L3,Réglage qualité,21
+2026-09-01,Matin,L3,Réglage qualité,8
+2026-09-01,Matin,L3,Attente cariste,7
+2026-09-01,Matin,L3,Micro-arrêts,1
+2026-09-01,Matin,L3,Micro-arrêts,1
+2026-09-01,Après-midi,L1,Panne électrique,69
+2026-09-01,Après-midi,L1,Changement de série,19
+2026-09-01,Après-midi,L1,Manque matière,8
+2026-09-01,Après-midi,L1,Micro-arrêts,1
+2026-09-01,Après-midi,L2,Panne mécanique,17
+2026-09-01,Après-midi,L2,Panne mécanique,49
+2026-09-01,Après-midi,L2,Réglage qualité,12
+2026-09-01,Après-midi,L2,Manque matière,17
+2026-09-01,Après-midi,L2,Micro-arrêts,6
+2026-09-01,Après-midi,L2,Micro-arrêts,4
+2026-09-01,Après-midi,L2,Micro-arrêts,6
+2026-09-01,Après-midi,L2,Micro-arrêts,4
+2026-09-01,Après-midi,L2,Micro-arrêts,1
+2026-09-01,Après-midi,L2,Nettoyage non planifié,9
+2026-09-01,Après-midi,L3,Panne mécanique,30
+2026-09-01,Après-midi,L3,Panne électrique,22
+2026-09-01,Après-midi,L3,Réglage qualité,10
+2026-09-01,Après-midi,L3,Micro-arrêts,4
+2026-09-02,Matin,L1,Panne mécanique,21
+2026-09-02,Matin,L1,Panne électrique,6
+2026-09-02,Matin,L1,Changement de série,8
+2026-09-02,Matin,L1,Changement de série,68
+2026-09-02,Matin,L1,Micro-arrêts,1
+2026-09-02,Matin,L1,Micro-arrêts,2
+2026-09-02,Matin,L1,Micro-arrêts,4
+2026-09-02,Matin,L1,Micro-arrêts,7
+2026-09-02,Matin,L1,Micro-arrêts,2
+2026-09-02,Matin,L2,Panne mécanique,20
+2026-09-02,Matin,L2,Panne mécanique,17
+2026-09-02,Matin,L2,Panne électrique,11
+2026-09-02,Matin,L2,Attente cariste,11
+2026-09-02,Matin,L2,Micro-arrêts,3
+2026-09-02,Matin,L2,Micro-arrêts,4
+2026-09-02,Matin,L2,Micro-arrêts,3
+2026-09-02,Matin,L2,Micro-arrêts,4
+2026-09-02,Matin,L2,Micro-arrêts,3
+2026-09-02,Matin,L3,Panne mécanique,41
+2026-09-02,Après-midi,L1,Micro-arrêts,1
+2026-09-02,Après-midi,L1,Micro-arrêts,11
+2026-09-02,Après-midi,L1,Micro-arrêts,10
+2026-09-02,Après-midi,L2,Panne mécanique,55
+2026-09-02,Après-midi,L2,Changement de série,9
+2026-09-02,Après-midi,L2,Changement de série,12
+2026-09-02,Après-midi,L2,Changement de série,25
+2026-09-02,Après-midi,L2,Changement de série,7
+2026-09-02,Après-midi,L2,Changement de série,25
+2026-09-02,Après-midi,L2,Attente cariste,4
+2026-09-02,Après-midi,L2,Attente cariste,10
+2026-09-02,Après-midi,L2,Attente cariste,5
+2026-09-02,Après-midi,L2,Micro-arrêts,4
+2026-09-02,Après-midi,L2,Micro-arrêts,3
+2026-09-02,Après-midi,L2,Micro-arrêts,1
+2026-09-02,Après-midi,L2,Micro-arrêts,4
+2026-09-02,Après-midi,L2,Micro-arrêts,7
+2026-09-02,Après-midi,L3,Panne électrique,33
+2026-09-02,Après-midi,L3,Réglage qualité,6
+2026-09-02,Après-midi,L3,Manque matière,11
+2026-09-02,Après-midi,L3,Micro-arrêts,1
+2026-09-03,Matin,L1,Changement de série,33
+2026-09-03,Matin,L1,Changement de série,28
+2026-09-03,Matin,L1,Attente cariste,10
+2026-09-03,Matin,L1,Micro-arrêts,5
+2026-09-03,Matin,L1,Micro-arrêts,2
+2026-09-03,Matin,L2,Panne mécanique,13
+2026-09-03,Matin,L2,Changement de série,70
+2026-09-03,Matin,L2,Micro-arrêts,4
+2026-09-03,Matin,L2,Micro-arrêts,3
+2026-09-03,Matin,L2,Micro-arrêts,7
+2026-09-03,Matin,L2,Micro-arrêts,4
+2026-09-03,Matin,L2,Micro-arrêts,3
+2026-09-03,Matin,L2,Micro-arrêts,1
+2026-09-03,Matin,L3,Panne mécanique,13
+2026-09-03,Matin,L3,Panne mécanique,16
+2026-09-03,Matin,L3,Panne électrique,14
+2026-09-03,Matin,L3,Changement de série,83
+2026-09-03,Matin,L3,Réglage qualité,15
+2026-09-03,Matin,L3,Micro-arrêts,2
+2026-09-03,Après-midi,L1,Réglage qualité,4
+2026-09-03,Après-midi,L1,Micro-arrêts,8
+2026-09-03,Après-midi,L1,Micro-arrêts,1
+2026-09-03,Après-midi,L1,Micro-arrêts,1
+2026-09-03,Après-midi,L1,Micro-arrêts,3
+2026-09-03,Après-midi,L2,Micro-arrêts,3
+2026-09-03,Après-midi,L2,Micro-arrêts,5
+2026-09-03,Après-midi,L2,Micro-arrêts,1
+2026-09-03,Après-midi,L2,Micro-arrêts,3
+2026-09-03,Après-midi,L2,Micro-arrêts,1
+2026-09-03,Après-midi,L3,Réglage qualité,13
+2026-09-03,Après-midi,L3,Réglage qualité,7
+2026-09-03,Après-midi,L3,Micro-arrêts,5
+2026-09-04,Matin,L1,Changement de série,10
+2026-09-04,Matin,L1,Changement de série,24
+2026-09-04,Matin,L1,Changement de série,26
+2026-09-04,Matin,L1,Changement de série,12
+2026-09-04,Matin,L1,Manque matière,23
+2026-09-04,Matin,L1,Manque matière,29
+2026-09-04,Matin,L2,Changement de série,109
+2026-09-04,Matin,L2,Micro-arrêts,3
+2026-09-04,Matin,L2,Micro-arrêts,4
+2026-09-04,Matin,L2,Micro-arrêts,1
+2026-09-04,Matin,L2,Nettoyage non planifié,13
+2026-09-04,Matin,L3,Panne mécanique,54
+2026-09-04,Matin,L3,Réglage qualité,17
+2026-09-04,Matin,L3,Micro-arrêts,5
+2026-09-04,Après-midi,L1,Réglage qualité,6
+2026-09-04,Après-midi,L1,Micro-arrêts,3
+2026-09-04,Après-midi,L1,Micro-arrêts,2
+2026-09-04,Après-midi,L1,Micro-arrêts,7
+2026-09-04,Après-midi,L1,Micro-arrêts,1
+2026-09-04,Après-midi,L1,Micro-arrêts,3
+2026-09-04,Après-midi,L2,Changement de série,9
+2026-09-04,Après-midi,L2,Changement de série,59
+2026-09-04,Après-midi,L2,Réglage qualité,33
+2026-09-04,Après-midi,L2,Micro-arrêts,8
+2026-09-04,Après-midi,L2,Micro-arrêts,5
+2026-09-04,Après-midi,L2,Micro-arrêts,3
+2026-09-04,Après-midi,L2,Micro-arrêts,1
+2026-09-04,Après-midi,L2,Micro-arrêts,13
+2026-09-04,Après-midi,L2,Micro-arrêts,4
+2026-09-04,Après-midi,L2,Micro-arrêts,3
+2026-09-04,Après-midi,L2,Nettoyage non planifié,7
+2026-09-04,Après-midi,L3,Changement de série,39
+2026-09-04,Après-midi,L3,Réglage qualité,10
+2026-09-04,Après-midi,L3,Micro-arrêts,4
+2026-09-04,Après-midi,L3,Micro-arrêts,13
+2026-09-07,Matin,L1,Panne électrique,25
+2026-09-07,Matin,L1,Manque matière,14
+2026-09-07,Matin,L1,Attente cariste,14
+2026-09-07,Matin,L1,Micro-arrêts,4
+2026-09-07,Matin,L1,Micro-arrêts,3
+2026-09-07,Matin,L1,Micro-arrêts,2
+2026-09-07,Matin,L1,Micro-arrêts,8
+2026-09-07,Matin,L1,Nettoyage non planifié,3
+2026-09-07,Matin,L2,Micro-arrêts,2
+2026-09-07,Matin,L2,Micro-arrêts,3
+2026-09-07,Matin,L2,Micro-arrêts,5
+2026-09-07,Matin,L2,Nettoyage non planifié,9
+2026-09-07,Matin,L3,Panne mécanique,5
+2026-09-07,Matin,L3,Réglage qualité,29
+2026-09-07,Matin,L3,Attente cariste,6
+2026-09-07,Matin,L3,Micro-arrêts,6
+2026-09-07,Matin,L3,Micro-arrêts,4
+2026-09-07,Matin,L3,Micro-arrêts,4
+2026-09-07,Matin,L3,Nettoyage non planifié,9
+2026-09-07,Après-midi,L1,Panne mécanique,19
+2026-09-07,Après-midi,L1,Panne mécanique,18
+2026-09-07,Après-midi,L1,Panne mécanique,45
+2026-09-07,Après-midi,L1,Réglage qualité,4
+2026-09-07,Après-midi,L1,Manque matière,9
+2026-09-07,Après-midi,L1,Manque matière,21
+2026-09-07,Après-midi,L1,Micro-arrêts,4
+2026-09-07,Après-midi,L1,Micro-arrêts,3
+2026-09-07,Après-midi,L1,Micro-arrêts,3
+2026-09-07,Après-midi,L1,Micro-arrêts,8
+2026-09-07,Après-midi,L1,Micro-arrêts,15
+2026-09-07,Après-midi,L1,Micro-arrêts,8
+2026-09-07,Après-midi,L2,Panne électrique,12
+2026-09-07,Après-midi,L2,Changement de série,21
+2026-09-07,Après-midi,L2,Réglage qualité,2
+2026-09-07,Après-midi,L2,Attente cariste,7
+2026-09-07,Après-midi,L2,Attente cariste,21
+2026-09-07,Après-midi,L2,Micro-arrêts,1
+2026-09-07,Après-midi,L2,Micro-arrêts,2
+2026-09-07,Après-midi,L2,Micro-arrêts,3
+2026-09-07,Après-midi,L2,Micro-arrêts,8
+2026-09-07,Après-midi,L2,Micro-arrêts,10
+2026-09-07,Après-midi,L2,Micro-arrêts,2
+2026-09-07,Après-midi,L2,Nettoyage non planifié,18
+2026-09-07,Après-midi,L2,Nettoyage non planifié,25
+2026-09-07,Après-midi,L3,Panne mécanique,40
+2026-09-07,Après-midi,L3,Panne électrique,11
+2026-09-07,Après-midi,L3,Manque matière,13
+2026-09-07,Après-midi,L3,Micro-arrêts,3
+2026-09-08,Matin,L1,Changement de série,7
+2026-09-08,Matin,L1,Changement de série,9
+2026-09-08,Matin,L1,Réglage qualité,17
+2026-09-08,Matin,L1,Manque matière,25
+2026-09-08,Matin,L1,Manque matière,4
+2026-09-08,Matin,L1,Attente cariste,3
+2026-09-08,Matin,L1,Micro-arrêts,2
+2026-09-08,Matin,L1,Micro-arrêts,5
+2026-09-08,Matin,L1,Micro-arrêts,3
+2026-09-08,Matin,L1,Micro-arrêts,6
+2026-09-08,Matin,L1,Micro-arrêts,1
+2026-09-08,Matin,L2,Panne mécanique,21
+2026-09-08,Matin,L2,Changement de série,28
+2026-09-08,Matin,L2,Changement de série,75
+2026-09-08,Matin,L2,Attente cariste,11
+2026-09-08,Matin,L2,Micro-arrêts,2
+2026-09-08,Matin,L2,Micro-arrêts,5
+2026-09-08,Matin,L2,Micro-arrêts,2
+2026-09-08,Matin,L2,Micro-arrêts,3
+2026-09-08,Matin,L2,Micro-arrêts,1
+2026-09-08,Matin,L2,Micro-arrêts,2
+2026-09-08,Matin,L3,Réglage qualité,12
+2026-09-08,Après-midi,L1,Changement de série,31
+2026-09-08,Après-midi,L1,Manque matière,2
+2026-09-08,Après-midi,L1,Micro-arrêts,1
+2026-09-08,Après-midi,L1,Micro-arrêts,4
+2026-09-08,Après-midi,L1,Micro-arrêts,2
+2026-09-08,Après-midi,L1,Micro-arrêts,6
+2026-09-08,Après-midi,L1,Micro-arrêts,3
+2026-09-08,Après-midi,L1,Micro-arrêts,3
+2026-09-08,Après-midi,L1,Micro-arrêts,2
+2026-09-08,Après-midi,L2,Panne mécanique,5
+2026-09-08,Après-midi,L2,Changement de série,37
+2026-09-08,Après-midi,L2,Changement de série,64
+2026-09-08,Après-midi,L2,Changement de série,27
+2026-09-08,Après-midi,L2,Réglage qualité,35
+2026-09-08,Après-midi,L2,Réglage qualité,35
+2026-09-08,Après-midi,L2,Attente cariste,12
+2026-09-08,Après-midi,L2,Micro-arrêts,2
+2026-09-08,Après-midi,L2,Micro-arrêts,5
+2026-09-08,Après-midi,L2,Micro-arrêts,3
+2026-09-08,Après-midi,L2,Micro-arrêts,10
+2026-09-08,Après-midi,L2,Micro-arrêts,9
+2026-09-08,Après-midi,L3,Attente cariste,4
+2026-09-09,Matin,L1,Panne mécanique,30
+2026-09-09,Matin,L1,Réglage qualité,24
+2026-09-09,Matin,L1,Réglage qualité,20
+2026-09-09,Matin,L1,Réglage qualité,17
+2026-09-09,Matin,L1,Manque matière,21
+2026-09-09,Matin,L1,Micro-arrêts,5
+2026-09-09,Matin,L1,Micro-arrêts,2
+2026-09-09,Matin,L1,Nettoyage non planifié,18
+2026-09-09,Matin,L1,Nettoyage non planifié,42
+2026-09-09,Matin,L2,Changement de série,44
+2026-09-09,Matin,L2,Attente cariste,9
+2026-09-09,Matin,L2,Micro-arrêts,4
+2026-09-09,Matin,L2,Micro-arrêts,2
+2026-09-09,Matin,L2,Micro-arrêts,4
+2026-09-09,Matin,L2,Micro-arrêts,8
+2026-09-09,Matin,L2,Micro-arrêts,1
+2026-09-09,Matin,L2,Micro-arrêts,6
+2026-09-09,Matin,L2,Micro-arrêts,4
+2026-09-09,Matin,L2,Micro-arrêts,7
+2026-09-09,Matin,L3,Panne mécanique,73
+2026-09-09,Matin,L3,Changement de série,47
+2026-09-09,Matin,L3,Micro-arrêts,4
+2026-09-09,Matin,L3,Micro-arrêts,1
+2026-09-09,Après-midi,L1,Panne mécanique,15
+2026-09-09,Après-midi,L1,Réglage qualité,22
+2026-09-09,Après-midi,L1,Attente cariste,13
+2026-09-09,Après-midi,L1,Micro-arrêts,2
+2026-09-09,Après-midi,L1,Micro-arrêts,3
+2026-09-09,Après-midi,L1,Micro-arrêts,4
+2026-09-09,Après-midi,L1,Micro-arrêts,2
+2026-09-09,Après-midi,L1,Nettoyage non planifié,12
+2026-09-09,Après-midi,L1,Nettoyage non planifié,3
+2026-09-09,Après-midi,L2,Changement de série,7
+2026-09-09,Après-midi,L2,Changement de série,5
+2026-09-09,Après-midi,L2,Micro-arrêts,5
+2026-09-09,Après-midi,L2,Micro-arrêts,2
+2026-09-09,Après-midi,L2,Micro-arrêts,4
+2026-09-09,Après-midi,L2,Micro-arrêts,9
+2026-09-09,Après-midi,L3,Panne électrique,19
+2026-09-09,Après-midi,L3,Changement de série,35
+2026-09-09,Après-midi,L3,Micro-arrêts,2
+2026-09-10,Matin,L1,Changement de série,44
+2026-09-10,Matin,L1,Manque matière,3
+2026-09-10,Matin,L1,Micro-arrêts,2
+2026-09-10,Matin,L1,Micro-arrêts,1
+2026-09-10,Matin,L1,Micro-arrêts,10
+2026-09-10,Matin,L1,Micro-arrêts,3
+2026-09-10,Matin,L2,Manque matière,18
+2026-09-10,Matin,L2,Micro-arrêts,7
+2026-09-10,Matin,L2,Micro-arrêts,5
+2026-09-10,Matin,L2,Micro-arrêts,3
+2026-09-10,Matin,L2,Micro-arrêts,7
+2026-09-10,Matin,L2,Micro-arrêts,2
+2026-09-10,Matin,L2,Micro-arrêts,1
+2026-09-10,Matin,L2,Micro-arrêts,5
+2026-09-10,Matin,L2,Micro-arrêts,3
+2026-09-10,Matin,L2,Micro-arrêts,1
+2026-09-10,Matin,L2,Micro-arrêts,1
+2026-09-10,Matin,L2,Micro-arrêts,1
+2026-09-10,Matin,L2,Micro-arrêts,9
+2026-09-10,Matin,L3,Panne mécanique,39
+2026-09-10,Matin,L3,Micro-arrêts,8
+2026-09-10,Matin,L3,Micro-arrêts,2
+2026-09-10,Matin,L3,Micro-arrêts,2
+2026-09-10,Matin,L3,Micro-arrêts,3
+2026-09-10,Matin,L3,Nettoyage non planifié,9
+2026-09-10,Après-midi,L1,Panne mécanique,45
+2026-09-10,Après-midi,L1,Panne mécanique,4
+2026-09-10,Après-midi,L1,Changement de série,23
+2026-09-10,Après-midi,L1,Changement de série,13
+2026-09-10,Après-midi,L1,Changement de série,40
+2026-09-10,Après-midi,L1,Réglage qualité,14
+2026-09-10,Après-midi,L1,Manque matière,13
+2026-09-10,Après-midi,L1,Attente cariste,3
+2026-09-10,Après-midi,L1,Micro-arrêts,3
+2026-09-10,Après-midi,L1,Micro-arrêts,3
+2026-09-10,Après-midi,L1,Micro-arrêts,4
+2026-09-10,Après-midi,L1,Micro-arrêts,1
+2026-09-10,Après-midi,L2,Panne mécanique,31
+2026-09-10,Après-midi,L2,Changement de série,63
+2026-09-10,Après-midi,L2,Réglage qualité,4
+2026-09-10,Après-midi,L2,Manque matière,3
+2026-09-10,Après-midi,L2,Micro-arrêts,2
+2026-09-10,Après-midi,L2,Micro-arrêts,1
+2026-09-10,Après-midi,L2,Micro-arrêts,4
+2026-09-10,Après-midi,L2,Micro-arrêts,6
+2026-09-10,Après-midi,L2,Micro-arrêts,2
+2026-09-10,Après-midi,L2,Micro-arrêts,7
+2026-09-10,Après-midi,L3,Panne électrique,27
+2026-09-10,Après-midi,L3,Réglage qualité,7
+2026-09-10,Après-midi,L3,Manque matière,16
+2026-09-10,Après-midi,L3,Micro-arrêts,2
+2026-09-10,Après-midi,L3,Micro-arrêts,9
+2026-09-11,Matin,L1,Panne mécanique,51
+2026-09-11,Matin,L1,Changement de série,27
+2026-09-11,Matin,L1,Réglage qualité,13
+2026-09-11,Matin,L1,Micro-arrêts,4
+2026-09-11,Matin,L1,Micro-arrêts,3
+2026-09-11,Matin,L1,Micro-arrêts,5
+2026-09-11,Matin,L1,Micro-arrêts,9
+2026-09-11,Matin,L1,Micro-arrêts,6
+2026-09-11,Matin,L1,Micro-arrêts,3
+2026-09-11,Matin,L1,Micro-arrêts,3
+2026-09-11,Matin,L2,Changement de série,14
+2026-09-11,Matin,L2,Changement de série,8
+2026-09-11,Matin,L2,Micro-arrêts,6
+2026-09-11,Matin,L2,Micro-arrêts,1
+2026-09-11,Matin,L2,Micro-arrêts,6
+2026-09-11,Matin,L2,Micro-arrêts,2
+2026-09-11,Matin,L2,Micro-arrêts,8
+2026-09-11,Matin,L2,Micro-arrêts,7
+2026-09-11,Matin,L2,Micro-arrêts,3
+2026-09-11,Matin,L3,Panne mécanique,22
+2026-09-11,Matin,L3,Changement de série,37
+2026-09-11,Matin,L3,Manque matière,14
+2026-09-11,Matin,L3,Micro-arrêts,4
+2026-09-11,Après-midi,L1,Panne mécanique,18
+2026-09-11,Après-midi,L1,Changement de série,21
+2026-09-11,Après-midi,L1,Changement de série,19
+2026-09-11,Après-midi,L1,Manque matière,15
+2026-09-11,Après-midi,L1,Attente cariste,4
+2026-09-11,Après-midi,L1,Attente cariste,1
+2026-09-11,Après-midi,L1,Micro-arrêts,1
+2026-09-11,Après-midi,L1,Nettoyage non planifié,47
+2026-09-11,Après-midi,L2,Changement de série,31
+2026-09-11,Après-midi,L2,Changement de série,44
+2026-09-11,Après-midi,L2,Réglage qualité,45
+2026-09-11,Après-midi,L2,Manque matière,50
+2026-09-11,Après-midi,L2,Micro-arrêts,7
+2026-09-11,Après-midi,L2,Micro-arrêts,7
+2026-09-11,Après-midi,L2,Micro-arrêts,7
+2026-09-11,Après-midi,L2,Micro-arrêts,5
+2026-09-11,Après-midi,L2,Micro-arrêts,4
+2026-09-11,Après-midi,L2,Micro-arrêts,3
+2026-09-11,Après-midi,L3,Changement de série,6
+2026-09-14,Matin,L1,Changement de série,25
+2026-09-14,Matin,L1,Réglage qualité,37
+2026-09-14,Matin,L1,Attente cariste,12
+2026-09-14,Matin,L1,Micro-arrêts,5
+2026-09-14,Matin,L1,Micro-arrêts,1
+2026-09-14,Matin,L1,Micro-arrêts,10
+2026-09-14,Matin,L1,Micro-arrêts,1
+2026-09-14,Matin,L1,Micro-arrêts,4
+2026-09-14,Matin,L2,Changement de série,39
+2026-09-14,Matin,L2,Micro-arrêts,1
+2026-09-14,Matin,L2,Micro-arrêts,5
+2026-09-14,Matin,L2,Micro-arrêts,4
+2026-09-14,Matin,L2,Micro-arrêts,10
+2026-09-14,Matin,L2,Micro-arrêts,3
+2026-09-14,Matin,L2,Micro-arrêts,5
+2026-09-14,Matin,L2,Micro-arrêts,2
+2026-09-14,Matin,L3,Panne mécanique,30
+2026-09-14,Matin,L3,Panne électrique,19
+2026-09-14,Matin,L3,Changement de série,12
+2026-09-14,Matin,L3,Réglage qualité,63
+2026-09-14,Matin,L3,Manque matière,37
+2026-09-14,Matin,L3,Micro-arrêts,3
+2026-09-14,Après-midi,L1,Manque matière,46
+2026-09-14,Après-midi,L1,Micro-arrêts,2
+2026-09-14,Après-midi,L1,Micro-arrêts,1
+2026-09-14,Après-midi,L1,Micro-arrêts,6
+2026-09-14,Après-midi,L1,Micro-arrêts,2
+2026-09-14,Après-midi,L2,Panne électrique,17
+2026-09-14,Après-midi,L2,Changement de série,30
+2026-09-14,Après-midi,L2,Manque matière,45
+2026-09-14,Après-midi,L2,Micro-arrêts,7
+2026-09-14,Après-midi,L2,Micro-arrêts,4
+2026-09-14,Après-midi,L2,Micro-arrêts,2
+2026-09-14,Après-midi,L2,Micro-arrêts,6
+2026-09-14,Après-midi,L2,Micro-arrêts,3
+2026-09-14,Après-midi,L2,Nettoyage non planifié,1
+2026-09-14,Après-midi,L3,Panne mécanique,27
+2026-09-14,Après-midi,L3,Panne mécanique,4
+2026-09-14,Après-midi,L3,Manque matière,8
+2026-09-14,Après-midi,L3,Micro-arrêts,4
+2026-09-15,Matin,L1,Panne électrique,26
+2026-09-15,Matin,L1,Changement de série,39
+2026-09-15,Matin,L1,Manque matière,2
+2026-09-15,Matin,L1,Micro-arrêts,3
+2026-09-15,Matin,L1,Micro-arrêts,4
+2026-09-15,Matin,L1,Micro-arrêts,5
+2026-09-15,Matin,L1,Micro-arrêts,1
+2026-09-15,Matin,L1,Micro-arrêts,1
+2026-09-15,Matin,L1,Micro-arrêts,2
+2026-09-15,Matin,L1,Micro-arrêts,2
+2026-09-15,Matin,L1,Micro-arrêts,3
+2026-09-15,Matin,L1,Micro-arrêts,1
+2026-09-15,Matin,L2,Changement de série,14
+2026-09-15,Matin,L2,Changement de série,6
+2026-09-15,Matin,L2,Changement de série,48
+2026-09-15,Matin,L2,Changement de série,40
+2026-09-15,Matin,L2,Manque matière,30
+2026-09-15,Matin,L2,Micro-arrêts,4
+2026-09-15,Matin,L2,Micro-arrêts,3
+2026-09-15,Matin,L2,Micro-arrêts,4
+2026-09-15,Matin,L2,Micro-arrêts,5
+2026-09-15,Matin,L2,Micro-arrêts,11
+2026-09-15,Matin,L2,Micro-arrêts,2
+2026-09-15,Matin,L2,Micro-arrêts,1
+2026-09-15,Matin,L2,Micro-arrêts,4
+2026-09-15,Matin,L2,Micro-arrêts,3
+2026-09-15,Matin,L3,Panne mécanique,18
+2026-09-15,Matin,L3,Panne mécanique,18
+2026-09-15,Matin,L3,Panne électrique,29
+2026-09-15,Matin,L3,Réglage qualité,32
+2026-09-15,Matin,L3,Micro-arrêts,1
+2026-09-15,Après-midi,L1,Changement de série,27
+2026-09-15,Après-midi,L1,Attente cariste,31
+2026-09-15,Après-midi,L1,Micro-arrêts,8
+2026-09-15,Après-midi,L1,Micro-arrêts,2
+2026-09-15,Après-midi,L1,Micro-arrêts,2
+2026-09-15,Après-midi,L1,Micro-arrêts,2
+2026-09-15,Après-midi,L1,Nettoyage non planifié,12
+2026-09-15,Après-midi,L2,Réglage qualité,3
+2026-09-15,Après-midi,L2,Manque matière,37
+2026-09-15,Après-midi,L2,Micro-arrêts,5
+2026-09-15,Après-midi,L2,Micro-arrêts,1
+2026-09-15,Après-midi,L2,Micro-arrêts,1
+2026-09-15,Après-midi,L2,Micro-arrêts,3
+2026-09-15,Après-midi,L2,Micro-arrêts,8
+2026-09-15,Après-midi,L2,Micro-arrêts,2
+2026-09-15,Après-midi,L2,Micro-arrêts,6
+2026-09-15,Après-midi,L2,Micro-arrêts,1
+2026-09-15,Après-midi,L3,Panne mécanique,8
+2026-09-15,Après-midi,L3,Panne électrique,15
+2026-09-15,Après-midi,L3,Réglage qualité,15
+2026-09-15,Après-midi,L3,Micro-arrêts,5
+2026-09-16,Matin,L1,Panne électrique,14
+2026-09-16,Matin,L1,Changement de série,129
+2026-09-16,Matin,L1,Changement de série,44
+2026-09-16,Matin,L1,Réglage qualité,20
+2026-09-16,Matin,L1,Attente cariste,7
+2026-09-16,Matin,L1,Attente cariste,5
+2026-09-16,Matin,L1,Micro-arrêts,3
+2026-09-16,Matin,L1,Micro-arrêts,5
+2026-09-16,Matin,L1,Micro-arrêts,1
+2026-09-16,Matin,L1,Micro-arrêts,10
+2026-09-16,Matin,L2,Panne mécanique,36
+2026-09-16,Matin,L2,Changement de série,43
+2026-09-16,Matin,L2,Changement de série,65
+2026-09-16,Matin,L2,Micro-arrêts,4
+2026-09-16,Matin,L2,Micro-arrêts,2
+2026-09-16,Matin,L2,Micro-arrêts,2
+2026-09-16,Matin,L3,Changement de série,31
+2026-09-16,Matin,L3,Réglage qualité,9
+2026-09-16,Matin,L3,Manque matière,5
+2026-09-16,Matin,L3,Micro-arrêts,4
+2026-09-16,Après-midi,L1,Changement de série,53
+2026-09-16,Après-midi,L1,Changement de série,142
+2026-09-16,Après-midi,L1,Manque matière,2
+2026-09-16,Après-midi,L1,Manque matière,2
+2026-09-16,Après-midi,L1,Micro-arrêts,3
+2026-09-16,Après-midi,L1,Micro-arrêts,2
+2026-09-16,Après-midi,L1,Micro-arrêts,4
+2026-09-16,Après-midi,L2,Changement de série,7
+2026-09-16,Après-midi,L2,Attente cariste,12
+2026-09-16,Après-midi,L2,Micro-arrêts,2
+2026-09-16,Après-midi,L2,Micro-arrêts,6
+2026-09-16,Après-midi,L2,Micro-arrêts,9
+2026-09-16,Après-midi,L2,Micro-arrêts,4
+2026-09-16,Après-midi,L2,Micro-arrêts,3
+2026-09-16,Après-midi,L2,Micro-arrêts,9
+2026-09-16,Après-midi,L2,Micro-arrêts,1
+2026-09-16,Après-midi,L2,Micro-arrêts,6
+2026-09-16,Après-midi,L2,Nettoyage non planifié,1
+2026-09-16,Après-midi,L3,Panne mécanique,42
+2026-09-16,Après-midi,L3,Panne mécanique,31
+2026-09-16,Après-midi,L3,Panne mécanique,21
+2026-09-16,Après-midi,L3,Changement de série,41
+2026-09-16,Après-midi,L3,Réglage qualité,24
+2026-09-17,Matin,L1,Panne mécanique,14
+2026-09-17,Matin,L1,Panne mécanique,18
+2026-09-17,Matin,L1,Réglage qualité,3
+2026-09-17,Matin,L1,Micro-arrêts,2
+2026-09-17,Matin,L1,Micro-arrêts,7
+2026-09-17,Matin,L2,Micro-arrêts,7
+2026-09-17,Matin,L2,Micro-arrêts,3
+2026-09-17,Matin,L2,Micro-arrêts,4
+2026-09-17,Matin,L2,Micro-arrêts,1
+2026-09-17,Matin,L2,Micro-arrêts,3
+2026-09-17,Matin,L2,Micro-arrêts,9
+2026-09-17,Matin,L2,Micro-arrêts,12
+2026-09-17,Matin,L2,Micro-arrêts,5
+2026-09-17,Matin,L2,Micro-arrêts,2
+2026-09-17,Matin,L2,Micro-arrêts,3
+2026-09-17,Matin,L2,Micro-arrêts,8
+2026-09-17,Matin,L3,Panne mécanique,33
+2026-09-17,Matin,L3,Panne mécanique,54
+2026-09-17,Après-midi,L1,Panne mécanique,38
+2026-09-17,Après-midi,L1,Panne électrique,17
+2026-09-17,Après-midi,L1,Micro-arrêts,11
+2026-09-17,Après-midi,L1,Micro-arrêts,3
+2026-09-17,Après-midi,L1,Micro-arrêts,6
+2026-09-17,Après-midi,L1,Micro-arrêts,2
+2026-09-17,Après-midi,L2,Changement de série,62
+2026-09-17,Après-midi,L2,Réglage qualité,9
+2026-09-17,Après-midi,L2,Réglage qualité,23
+2026-09-17,Après-midi,L2,Manque matière,40
+2026-09-17,Après-midi,L2,Micro-arrêts,6
+2026-09-17,Après-midi,L2,Micro-arrêts,1
+2026-09-17,Après-midi,L2,Micro-arrêts,25
+2026-09-17,Après-midi,L2,Micro-arrêts,6
+2026-09-17,Après-midi,L2,Micro-arrêts,5
+2026-09-17,Après-midi,L3,Panne électrique,22
+2026-09-17,Après-midi,L3,Changement de série,52
+2026-09-17,Après-midi,L3,Changement de série,63
+2026-09-17,Après-midi,L3,Micro-arrêts,3
+2026-09-18,Matin,L1,Panne mécanique,23
+2026-09-18,Matin,L1,Panne mécanique,27
+2026-09-18,Matin,L1,Panne électrique,19
+2026-09-18,Matin,L1,Changement de série,38
+2026-09-18,Matin,L1,Changement de série,11
+2026-09-18,Matin,L1,Réglage qualité,17
+2026-09-18,Matin,L1,Manque matière,14
+2026-09-18,Matin,L1,Attente cariste,15
+2026-09-18,Matin,L1,Attente cariste,13
+2026-09-18,Matin,L1,Micro-arrêts,1
+2026-09-18,Matin,L1,Micro-arrêts,3
+2026-09-18,Matin,L2,Panne électrique,32
+2026-09-18,Matin,L2,Changement de série,31
+2026-09-18,Matin,L2,Changement de série,50
+2026-09-18,Matin,L2,Micro-arrêts,5
+2026-09-18,Matin,L2,Micro-arrêts,1
+2026-09-18,Matin,L2,Micro-arrêts,1
+2026-09-18,Matin,L2,Micro-arrêts,8
+2026-09-18,Matin,L2,Micro-arrêts,1
+2026-09-18,Matin,L2,Micro-arrêts,1
+2026-09-18,Matin,L2,Nettoyage non planifié,7
+2026-09-18,Matin,L3,Réglage qualité,7
+2026-09-18,Matin,L3,Micro-arrêts,2
+2026-09-18,Matin,L3,Micro-arrêts,15
+2026-09-18,Matin,L3,Micro-arrêts,3
+2026-09-18,Après-midi,L1,Changement de série,5
+2026-09-18,Après-midi,L1,Changement de série,71
+2026-09-18,Après-midi,L1,Réglage qualité,27
+2026-09-18,Après-midi,L1,Manque matière,27
+2026-09-18,Après-midi,L1,Attente cariste,22
+2026-09-18,Après-midi,L1,Micro-arrêts,2
+2026-09-18,Après-midi,L1,Micro-arrêts,4
+2026-09-18,Après-midi,L1,Micro-arrêts,3
+2026-09-18,Après-midi,L1,Micro-arrêts,1
+2026-09-18,Après-midi,L2,Panne mécanique,25
+2026-09-18,Après-midi,L2,Changement de série,27
+2026-09-18,Après-midi,L2,Changement de série,26
+2026-09-18,Après-midi,L2,Réglage qualité,30
+2026-09-18,Après-midi,L2,Manque matière,17
+2026-09-18,Après-midi,L2,Manque matière,12
+2026-09-18,Après-midi,L2,Micro-arrêts,4
+2026-09-18,Après-midi,L2,Micro-arrêts,1
+2026-09-18,Après-midi,L2,Micro-arrêts,8
+2026-09-18,Après-midi,L2,Micro-arrêts,1
+2026-09-18,Après-midi,L3,Changement de série,16
+2026-09-18,Après-midi,L3,Changement de série,86
+2026-09-18,Après-midi,L3,Réglage qualité,13
+2026-09-21,Matin,L1,Changement de série,17
+2026-09-21,Matin,L1,Changement de série,9
+2026-09-21,Matin,L1,Manque matière,17
+2026-09-21,Matin,L1,Attente cariste,5
+2026-09-21,Matin,L1,Attente cariste,11
+2026-09-21,Matin,L1,Micro-arrêts,1
+2026-09-21,Matin,L1,Micro-arrêts,6
+2026-09-21,Matin,L1,Micro-arrêts,3
+2026-09-21,Matin,L1,Micro-arrêts,1
+2026-09-21,Matin,L1,Micro-arrêts,3
+2026-09-21,Matin,L2,Panne mécanique,55
+2026-09-21,Matin,L2,Réglage qualité,20
+2026-09-21,Matin,L2,Attente cariste,10
+2026-09-21,Matin,L2,Attente cariste,10
+2026-09-21,Matin,L2,Micro-arrêts,3
+2026-09-21,Matin,L2,Micro-arrêts,8
+2026-09-21,Matin,L2,Micro-arrêts,4
+2026-09-21,Matin,L2,Micro-arrêts,1
+2026-09-21,Matin,L2,Micro-arrêts,3
+2026-09-21,Matin,L2,Micro-arrêts,15
+2026-09-21,Matin,L3,Panne électrique,14
+2026-09-21,Matin,L3,Changement de série,23
+2026-09-21,Matin,L3,Micro-arrêts,2
+2026-09-21,Matin,L3,Micro-arrêts,1
+2026-09-21,Matin,L3,Micro-arrêts,4
+2026-09-21,Matin,L3,Micro-arrêts,1
+2026-09-21,Après-midi,L1,Changement de série,13
+2026-09-21,Après-midi,L1,Réglage qualité,3
+2026-09-21,Après-midi,L1,Réglage qualité,16
+2026-09-21,Après-midi,L1,Manque matière,13
+2026-09-21,Après-midi,L1,Attente cariste,9
+2026-09-21,Après-midi,L1,Micro-arrêts,8
+2026-09-21,Après-midi,L1,Micro-arrêts,9
+2026-09-21,Après-midi,L1,Micro-arrêts,3
+2026-09-21,Après-midi,L1,Micro-arrêts,4
+2026-09-21,Après-midi,L2,Panne mécanique,21
+2026-09-21,Après-midi,L2,Attente cariste,7
+2026-09-21,Après-midi,L2,Micro-arrêts,2
+2026-09-21,Après-midi,L2,Micro-arrêts,2
+2026-09-21,Après-midi,L2,Micro-arrêts,7
+2026-09-21,Après-midi,L2,Micro-arrêts,8
+2026-09-21,Après-midi,L2,Micro-arrêts,4
+2026-09-21,Après-midi,L3,Changement de série,20
+2026-09-21,Après-midi,L3,Micro-arrêts,9
+2026-09-21,Après-midi,L3,Micro-arrêts,8
+2026-09-22,Matin,L1,Panne mécanique,28
+2026-09-22,Matin,L1,Changement de série,45
+2026-09-22,Matin,L1,Manque matière,18
+2026-09-22,Matin,L1,Manque matière,4
+2026-09-22,Matin,L1,Micro-arrêts,2
+2026-09-22,Matin,L1,Micro-arrêts,6
+2026-09-22,Matin,L1,Micro-arrêts,2
+2026-09-22,Matin,L2,Changement de série,26
+2026-09-22,Matin,L2,Changement de série,19
+2026-09-22,Matin,L2,Manque matière,5
+2026-09-22,Matin,L2,Micro-arrêts,2
+2026-09-22,Matin,L2,Micro-arrêts,1
+2026-09-22,Matin,L2,Micro-arrêts,3
+2026-09-22,Matin,L3,Micro-arrêts,2
+2026-09-22,Matin,L3,Micro-arrêts,7
+2026-09-22,Matin,L3,Micro-arrêts,4
+2026-09-22,Après-midi,L1,Changement de série,18
+2026-09-22,Après-midi,L1,Micro-arrêts,1
+2026-09-22,Après-midi,L1,Micro-arrêts,3
+2026-09-22,Après-midi,L1,Micro-arrêts,1
+2026-09-22,Après-midi,L1,Micro-arrêts,2
+2026-09-22,Après-midi,L2,Changement de série,22
+2026-09-22,Après-midi,L2,Réglage qualité,7
+2026-09-22,Après-midi,L2,Micro-arrêts,5
+2026-09-22,Après-midi,L2,Micro-arrêts,10
+2026-09-22,Après-midi,L2,Micro-arrêts,5
+2026-09-22,Après-midi,L2,Micro-arrêts,6
+2026-09-22,Après-midi,L2,Micro-arrêts,12
+2026-09-22,Après-midi,L2,Micro-arrêts,8
+2026-09-22,Après-midi,L2,Micro-arrêts,7
+2026-09-22,Après-midi,L2,Micro-arrêts,3
+2026-09-22,Après-midi,L3,Panne mécanique,13
+2026-09-22,Après-midi,L3,Réglage qualité,18
+2026-09-22,Après-midi,L3,Réglage qualité,2
+2026-09-22,Après-midi,L3,Manque matière,23
+2026-09-22,Après-midi,L3,Micro-arrêts,4
+2026-09-23,Matin,L1,Panne mécanique,25
+2026-09-23,Matin,L1,Panne électrique,24
+2026-09-23,Matin,L1,Micro-arrêts,1
+2026-09-23,Matin,L1,Micro-arrêts,8
+2026-09-23,Matin,L1,Micro-arrêts,2
+2026-09-23,Matin,L1,Micro-arrêts,4
+2026-09-23,Matin,L1,Nettoyage non planifié,10
+2026-09-23,Matin,L2,Changement de série,15
+2026-09-23,Matin,L2,Changement de série,73
+2026-09-23,Matin,L2,Réglage qualité,20
+2026-09-23,Matin,L2,Manque matière,13
+2026-09-23,Matin,L2,Manque matière,25
+2026-09-23,Matin,L2,Micro-arrêts,2
+2026-09-23,Matin,L2,Micro-arrêts,4
+2026-09-23,Matin,L3,Attente cariste,8
+2026-09-23,Matin,L3,Micro-arrêts,1
+2026-09-23,Après-midi,L1,Panne mécanique,14
+2026-09-23,Après-midi,L1,Panne électrique,37
+2026-09-23,Après-midi,L1,Changement de série,26
+2026-09-23,Après-midi,L1,Micro-arrêts,7
+2026-09-23,Après-midi,L1,Micro-arrêts,4
+2026-09-23,Après-midi,L1,Micro-arrêts,3
+2026-09-23,Après-midi,L1,Micro-arrêts,1
+2026-09-23,Après-midi,L1,Micro-arrêts,8
+2026-09-23,Après-midi,L2,Réglage qualité,11
+2026-09-23,Après-midi,L2,Manque matière,30
+2026-09-23,Après-midi,L2,Micro-arrêts,1
+2026-09-23,Après-midi,L2,Micro-arrêts,2
+2026-09-23,Après-midi,L2,Micro-arrêts,6
+2026-09-23,Après-midi,L2,Micro-arrêts,2
+2026-09-23,Après-midi,L2,Micro-arrêts,4
+2026-09-23,Après-midi,L3,Panne mécanique,18
+2026-09-23,Après-midi,L3,Panne mécanique,12
+2026-09-23,Après-midi,L3,Attente cariste,4
+2026-09-23,Après-midi,L3,Micro-arrêts,4
+2026-09-24,Matin,L1,Panne mécanique,52
+2026-09-24,Matin,L1,Changement de série,63
+2026-09-24,Matin,L1,Changement de série,69
+2026-09-24,Matin,L1,Réglage qualité,15
+2026-09-24,Matin,L1,Manque matière,8
+2026-09-24,Matin,L1,Micro-arrêts,4
+2026-09-24,Matin,L1,Micro-arrêts,2
+2026-09-24,Matin,L1,Micro-arrêts,1
+2026-09-24,Matin,L1,Micro-arrêts,3
+2026-09-24,Matin,L2,Changement de série,77
+2026-09-24,Matin,L2,Changement de série,13
+2026-09-24,Matin,L2,Micro-arrêts,2
+2026-09-24,Matin,L2,Micro-arrêts,1
+2026-09-24,Matin,L2,Nettoyage non planifié,29
+2026-09-24,Matin,L2,Nettoyage non planifié,22
+2026-09-24,Matin,L3,Panne mécanique,32
+2026-09-24,Matin,L3,Micro-arrêts,2
+2026-09-24,Après-midi,L1,Panne électrique,12
+2026-09-24,Après-midi,L1,Réglage qualité,17
+2026-09-24,Après-midi,L1,Réglage qualité,3
+2026-09-24,Après-midi,L1,Micro-arrêts,2
+2026-09-24,Après-midi,L1,Micro-arrêts,2
+2026-09-24,Après-midi,L1,Micro-arrêts,2
+2026-09-24,Après-midi,L1,Micro-arrêts,1
+2026-09-24,Après-midi,L1,Micro-arrêts,2
+2026-09-24,Après-midi,L2,Changement de série,27
+2026-09-24,Après-midi,L2,Changement de série,7
+2026-09-24,Après-midi,L2,Micro-arrêts,11
+2026-09-24,Après-midi,L2,Micro-arrêts,3
+2026-09-24,Après-midi,L2,Micro-arrêts,4
+2026-09-24,Après-midi,L2,Micro-arrêts,7
+2026-09-24,Après-midi,L2,Micro-arrêts,6
+2026-09-24,Après-midi,L2,Nettoyage non planifié,9
+2026-09-24,Après-midi,L3,Panne électrique,60
+2026-09-24,Après-midi,L3,Attente cariste,5
+2026-09-24,Après-midi,L3,Micro-arrêts,2
+2026-09-24,Après-midi,L3,Micro-arrêts,1
+2026-09-24,Après-midi,L3,Micro-arrêts,10
+2026-09-24,Après-midi,L3,Micro-arrêts,3
+2026-09-25,Matin,L1,Réglage qualité,11
+2026-09-25,Matin,L1,Micro-arrêts,6
+2026-09-25,Matin,L1,Micro-arrêts,6
+2026-09-25,Matin,L1,Micro-arrêts,5
+2026-09-25,Matin,L1,Micro-arrêts,5
+2026-09-25,Matin,L2,Panne mécanique,33
+2026-09-25,Matin,L2,Changement de série,13
+2026-09-25,Matin,L2,Attente cariste,21
+2026-09-25,Matin,L2,Micro-arrêts,6
+2026-09-25,Matin,L2,Micro-arrêts,3
+2026-09-25,Matin,L2,Micro-arrêts,3
+2026-09-25,Matin,L2,Micro-arrêts,3
+2026-09-25,Matin,L2,Micro-arrêts,6
+2026-09-25,Matin,L2,Micro-arrêts,1
+2026-09-25,Matin,L2,Micro-arrêts,3
+2026-09-25,Matin,L2,Nettoyage non planifié,15
+2026-09-25,Matin,L2,Nettoyage non planifié,12
+2026-09-25,Matin,L3,Réglage qualité,10
+2026-09-25,Matin,L3,Micro-arrêts,1
+2026-09-25,Matin,L3,Micro-arrêts,5
+2026-09-25,Matin,L3,Nettoyage non planifié,10
+2026-09-25,Après-midi,L1,Panne électrique,24
+2026-09-25,Après-midi,L1,Panne électrique,17
+2026-09-25,Après-midi,L1,Changement de série,37
+2026-09-25,Après-midi,L1,Manque matière,16
+2026-09-25,Après-midi,L1,Manque matière,30
+2026-09-25,Après-midi,L1,Micro-arrêts,6
+2026-09-25,Après-midi,L1,Micro-arrêts,5
+2026-09-25,Après-midi,L1,Micro-arrêts,1
+2026-09-25,Après-midi,L1,Micro-arrêts,7
+2026-09-25,Après-midi,L1,Micro-arrêts,2
+2026-09-25,Après-midi,L1,Micro-arrêts,1
+2026-09-25,Après-midi,L1,Nettoyage non planifié,16
+2026-09-25,Après-midi,L2,Changement de série,25
+2026-09-25,Après-midi,L2,Attente cariste,10
+2026-09-25,Après-midi,L2,Micro-arrêts,13
+2026-09-25,Après-midi,L2,Micro-arrêts,2
+2026-09-25,Après-midi,L2,Nettoyage non planifié,23
+2026-09-25,Après-midi,L3,Panne mécanique,4
+2026-09-25,Après-midi,L3,Panne mécanique,13
+2026-09-25,Après-midi,L3,Panne électrique,14
+2026-09-25,Après-midi,L3,Changement de série,7
+2026-09-25,Après-midi,L3,Manque matière,14
+2026-09-25,Après-midi,L3,Micro-arrêts,2
+2026-09-25,Après-midi,L3,Micro-arrêts,1
+2026-09-28,Matin,L1,Changement de série,4
+2026-09-28,Matin,L1,Manque matière,41
+2026-09-28,Matin,L1,Nettoyage non planifié,17
+2026-09-28,Matin,L2,Changement de série,11
+2026-09-28,Matin,L2,Micro-arrêts,2
+2026-09-28,Matin,L2,Micro-arrêts,2
+2026-09-28,Matin,L2,Micro-arrêts,2
+2026-09-28,Matin,L2,Micro-arrêts,4
+2026-09-28,Matin,L2,Micro-arrêts,1
+2026-09-28,Matin,L2,Micro-arrêts,3
+2026-09-28,Matin,L2,Micro-arrêts,2
+2026-09-28,Matin,L2,Micro-arrêts,6
+2026-09-28,Matin,L3,Panne électrique,34
+2026-09-28,Matin,L3,Changement de série,50
+2026-09-28,Matin,L3,Manque matière,14
+2026-09-28,Matin,L3,Manque matière,14
+2026-09-28,Matin,L3,Attente cariste,22
+2026-09-28,Matin,L3,Micro-arrêts,5
+2026-09-28,Après-midi,L1,Changement de série,14
+2026-09-28,Après-midi,L1,Changement de série,19
+2026-09-28,Après-midi,L1,Micro-arrêts,2
+2026-09-28,Après-midi,L1,Micro-arrêts,4
+2026-09-28,Après-midi,L2,Changement de série,27
+2026-09-28,Après-midi,L2,Changement de série,5
+2026-09-28,Après-midi,L2,Changement de série,78
+2026-09-28,Après-midi,L2,Micro-arrêts,4
+2026-09-28,Après-midi,L2,Micro-arrêts,3
+2026-09-28,Après-midi,L2,Micro-arrêts,7
+2026-09-28,Après-midi,L2,Micro-arrêts,1
+2026-09-28,Après-midi,L2,Micro-arrêts,8
+2026-09-28,Après-midi,L2,Micro-arrêts,3
+2026-09-28,Après-midi,L2,Micro-arrêts,1
+2026-09-28,Après-midi,L2,Micro-arrêts,4
+2026-09-28,Après-midi,L2,Nettoyage non planifié,12
+2026-09-28,Après-midi,L3,Panne mécanique,14
+2026-09-28,Après-midi,L3,Panne mécanique,40
+2026-09-28,Après-midi,L3,Panne mécanique,60
+2026-09-28,Après-midi,L3,Panne mécanique,35
+2026-09-28,Après-midi,L3,Micro-arrêts,2
+2026-09-28,Après-midi,L3,Micro-arrêts,2
+2026-09-28,Après-midi,L3,Nettoyage non planifié,21
+2026-09-29,Matin,L1,Panne électrique,12
+2026-09-29,Matin,L1,Changement de série,37
+2026-09-29,Matin,L1,Changement de série,46
+2026-09-29,Matin,L1,Attente cariste,11
+2026-09-29,Matin,L1,Attente cariste,10
+2026-09-29,Matin,L1,Micro-arrêts,8
+2026-09-29,Matin,L1,Micro-arrêts,1
+2026-09-29,Matin,L1,Micro-arrêts,4
+2026-09-29,Matin,L1,Micro-arrêts,1
+2026-09-29,Matin,L1,Micro-arrêts,3
+2026-09-29,Matin,L1,Micro-arrêts,2
+2026-09-29,Matin,L1,Micro-arrêts,1
+2026-09-29,Matin,L1,Micro-arrêts,2
+2026-09-29,Matin,L2,Panne électrique,15
+2026-09-29,Matin,L2,Changement de série,18
+2026-09-29,Matin,L2,Changement de série,41
+2026-09-29,Matin,L2,Changement de série,49
+2026-09-29,Matin,L2,Changement de série,19
+2026-09-29,Matin,L2,Micro-arrêts,1
+2026-09-29,Matin,L2,Micro-arrêts,1
+2026-09-29,Matin,L2,Micro-arrêts,4
+2026-09-29,Matin,L2,Micro-arrêts,5
+2026-09-29,Matin,L2,Micro-arrêts,2
+2026-09-29,Matin,L2,Micro-arrêts,2
+2026-09-29,Matin,L2,Micro-arrêts,1
+2026-09-29,Matin,L2,Micro-arrêts,8
+2026-09-29,Matin,L2,Micro-arrêts,1
+2026-09-29,Matin,L3,Panne mécanique,8
+2026-09-29,Matin,L3,Micro-arrêts,3
+2026-09-29,Matin,L3,Micro-arrêts,3
+2026-09-29,Matin,L3,Micro-arrêts,3
+2026-09-29,Après-midi,L1,Panne électrique,19
+2026-09-29,Après-midi,L1,Changement de série,143
+2026-09-29,Après-midi,L1,Réglage qualité,4
+2026-09-29,Après-midi,L1,Micro-arrêts,2
+2026-09-29,Après-midi,L1,Micro-arrêts,2
+2026-09-29,Après-midi,L1,Micro-arrêts,5
+2026-09-29,Après-midi,L2,Panne mécanique,12
+2026-09-29,Après-midi,L2,Réglage qualité,9
+2026-09-29,Après-midi,L2,Micro-arrêts,2
+2026-09-29,Après-midi,L2,Micro-arrêts,7
+2026-09-29,Après-midi,L2,Micro-arrêts,3
+2026-09-29,Après-midi,L2,Micro-arrêts,4
+2026-09-29,Après-midi,L2,Micro-arrêts,2
+2026-09-29,Après-midi,L2,Nettoyage non planifié,13
+2026-09-29,Après-midi,L3,Panne mécanique,31
+2026-09-29,Après-midi,L3,Réglage qualité,10
+2026-09-29,Après-midi,L3,Micro-arrêts,1
+2026-09-30,Matin,L1,Changement de série,55
+2026-09-30,Matin,L1,Réglage qualité,11
+2026-09-30,Matin,L1,Micro-arrêts,3
+2026-09-30,Matin,L1,Micro-arrêts,7
+2026-09-30,Matin,L1,Micro-arrêts,12
+2026-09-30,Matin,L1,Micro-arrêts,1
+2026-09-30,Matin,L2,Changement de série,48
+2026-09-30,Matin,L2,Réglage qualité,11
+2026-09-30,Matin,L2,Manque matière,12
+2026-09-30,Matin,L2,Attente cariste,4
+2026-09-30,Matin,L3,Panne mécanique,19
+2026-09-30,Matin,L3,Changement de série,40
+2026-09-30,Matin,L3,Micro-arrêts,6
+2026-09-30,Matin,L3,Micro-arrêts,2
+2026-09-30,Après-midi,L1,Panne mécanique,23
+2026-09-30,Après-midi,L1,Changement de série,37
+2026-09-30,Après-midi,L1,Changement de série,88
+2026-09-30,Après-midi,L1,Changement de série,32
+2026-09-30,Après-midi,L1,Réglage qualité,4
+2026-09-30,Après-midi,L1,Réglage qualité,7
+2026-09-30,Après-midi,L1,Attente cariste,3
+2026-09-30,Après-midi,L1,Micro-arrêts,2
+2026-09-30,Après-midi,L1,Micro-arrêts,7
+2026-09-30,Après-midi,L1,Micro-arrêts,3
+2026-09-30,Après-midi,L1,Nettoyage non planifié,16
+2026-09-30,Après-midi,L2,Changement de série,27
+2026-09-30,Après-midi,L2,Manque matière,12
+2026-09-30,Après-midi,L2,Attente cariste,3
+2026-09-30,Après-midi,L2,Micro-arrêts,1
+2026-09-30,Après-midi,L2,Micro-arrêts,2
+2026-09-30,Après-midi,L2,Micro-arrêts,5
+2026-09-30,Après-midi,L2,Micro-arrêts,4
+2026-09-30,Après-midi,L2,Micro-arrêts,4
+2026-09-30,Après-midi,L2,Micro-arrêts,9
+2026-09-30,Après-midi,L3,Réglage qualité,15
+2026-09-30,Après-midi,L3,Manque matière,27
+2026-09-30,Après-midi,L3,Micro-arrêts,2
+2026-10-01,Matin,L1,Panne mécanique,6
+2026-10-01,Matin,L1,Panne mécanique,35
+2026-10-01,Matin,L1,Changement de série,9
+2026-10-01,Matin,L1,Changement de série,30
+2026-10-01,Matin,L1,Réglage qualité,24
+2026-10-01,Matin,L1,Micro-arrêts,5
+2026-10-01,Matin,L1,Micro-arrêts,5
+2026-10-01,Matin,L2,Changement de série,19
+2026-10-01,Matin,L2,Attente cariste,4
+2026-10-01,Matin,L2,Micro-arrêts,10
+2026-10-01,Matin,L2,Micro-arrêts,1
+2026-10-01,Matin,L2,Micro-arrêts,3
+2026-10-01,Matin,L2,Nettoyage non planifié,7
+2026-10-01,Matin,L3,Réglage qualité,37
+2026-10-01,Matin,L3,Micro-arrêts,2
+2026-10-01,Après-midi,L1,Panne mécanique,3
+2026-10-01,Après-midi,L1,Panne mécanique,14
+2026-10-01,Après-midi,L1,Panne électrique,41
+2026-10-01,Après-midi,L1,Changement de série,46
+2026-10-01,Après-midi,L1,Manque matière,9
+2026-10-01,Après-midi,L1,Attente cariste,1
+2026-10-01,Après-midi,L1,Attente cariste,2
+2026-10-01,Après-midi,L1,Attente cariste,7
+2026-10-01,Après-midi,L1,Micro-arrêts,1
+2026-10-01,Après-midi,L1,Micro-arrêts,4
+2026-10-01,Après-midi,L1,Micro-arrêts,5
+2026-10-01,Après-midi,L2,Changement de série,74
+2026-10-01,Après-midi,L2,Changement de série,41
+2026-10-01,Après-midi,L2,Manque matière,18
+2026-10-01,Après-midi,L2,Micro-arrêts,1
+2026-10-01,Après-midi,L2,Micro-arrêts,1
+2026-10-01,Après-midi,L2,Micro-arrêts,3
+2026-10-01,Après-midi,L2,Micro-arrêts,8
+2026-10-01,Après-midi,L3,Panne mécanique,17
+2026-10-01,Après-midi,L3,Changement de série,17
+2026-10-01,Après-midi,L3,Changement de série,63
+2026-10-02,Matin,L1,Changement de série,7
+2026-10-02,Matin,L1,Réglage qualité,1
+2026-10-02,Matin,L1,Manque matière,16
+2026-10-02,Matin,L1,Attente cariste,17
+2026-10-02,Matin,L1,Micro-arrêts,3
+2026-10-02,Matin,L1,Micro-arrêts,2
+2026-10-02,Matin,L1,Micro-arrêts,8
+2026-10-02,Matin,L2,Changement de série,3
+2026-10-02,Matin,L2,Changement de série,50
+2026-10-02,Matin,L2,Réglage qualité,5
+2026-10-02,Matin,L2,Manque matière,11
+2026-10-02,Matin,L2,Manque matière,31
+2026-10-02,Matin,L2,Attente cariste,3
+2026-10-02,Matin,L2,Attente cariste,2
+2026-10-02,Matin,L2,Micro-arrêts,5
+2026-10-02,Matin,L2,Micro-arrêts,2
+2026-10-02,Matin,L2,Micro-arrêts,6
+2026-10-02,Matin,L2,Micro-arrêts,1
+2026-10-02,Matin,L2,Micro-arrêts,12
+2026-10-02,Matin,L2,Micro-arrêts,2
+2026-10-02,Matin,L2,Micro-arrêts,6
+2026-10-02,Matin,L3,Panne mécanique,21
+2026-10-02,Matin,L3,Panne électrique,13
+2026-10-02,Matin,L3,Micro-arrêts,4
+2026-10-02,Après-midi,L1,Panne mécanique,9
+2026-10-02,Après-midi,L1,Changement de série,61
+2026-10-02,Après-midi,L1,Changement de série,41
+2026-10-02,Après-midi,L1,Réglage qualité,37
+2026-10-02,Après-midi,L1,Manque matière,7
+2026-10-02,Après-midi,L1,Manque matière,17
+2026-10-02,Après-midi,L1,Micro-arrêts,8
+2026-10-02,Après-midi,L1,Micro-arrêts,3
+2026-10-02,Après-midi,L2,Panne mécanique,5
+2026-10-02,Après-midi,L2,Panne électrique,37
+2026-10-02,Après-midi,L2,Changement de série,50
+2026-10-02,Après-midi,L2,Manque matière,4
+2026-10-02,Après-midi,L2,Micro-arrêts,3
+2026-10-02,Après-midi,L3,Panne mécanique,6
+2026-10-02,Après-midi,L3,Panne électrique,29
+2026-10-02,Après-midi,L3,Réglage qualité,23
+2026-10-05,Matin,L1,Panne mécanique,10
+2026-10-05,Matin,L1,Changement de série,95
+2026-10-05,Matin,L1,Réglage qualité,57
+2026-10-05,Matin,L1,Attente cariste,10
+2026-10-05,Matin,L1,Micro-arrêts,1
+2026-10-05,Matin,L1,Micro-arrêts,4
+2026-10-05,Matin,L1,Micro-arrêts,3
+2026-10-05,Matin,L1,Micro-arrêts,1
+2026-10-05,Matin,L2,Panne électrique,40
+2026-10-05,Matin,L2,Panne électrique,7
+2026-10-05,Matin,L2,Changement de série,18
+2026-10-05,Matin,L2,Réglage qualité,8
+2026-10-05,Matin,L2,Attente cariste,9
+2026-10-05,Matin,L2,Attente cariste,1
+2026-10-05,Matin,L2,Micro-arrêts,3
+2026-10-05,Matin,L2,Micro-arrêts,4
+2026-10-05,Matin,L2,Micro-arrêts,1
+2026-10-05,Matin,L2,Micro-arrêts,10
+2026-10-05,Matin,L2,Micro-arrêts,2
+2026-10-05,Matin,L2,Micro-arrêts,1
+2026-10-05,Matin,L2,Micro-arrêts,1
+2026-10-05,Matin,L2,Micro-arrêts,3
+2026-10-05,Matin,L2,Micro-arrêts,1
+2026-10-05,Matin,L2,Micro-arrêts,3
+2026-10-05,Matin,L3,Panne mécanique,8
+2026-10-05,Matin,L3,Panne mécanique,24
+2026-10-05,Matin,L3,Panne électrique,5
+2026-10-05,Matin,L3,Réglage qualité,17
+2026-10-05,Matin,L3,Manque matière,33
+2026-10-05,Matin,L3,Manque matière,48
+2026-10-05,Matin,L3,Attente cariste,11
+2026-10-05,Après-midi,L1,Panne électrique,3
+2026-10-05,Après-midi,L1,Changement de série,16
+2026-10-05,Après-midi,L1,Changement de série,40
+2026-10-05,Après-midi,L1,Attente cariste,5
+2026-10-05,Après-midi,L1,Micro-arrêts,5
+2026-10-05,Après-midi,L1,Micro-arrêts,2
+2026-10-05,Après-midi,L1,Micro-arrêts,3
+2026-10-05,Après-midi,L1,Micro-arrêts,2
+2026-10-05,Après-midi,L1,Micro-arrêts,2
+2026-10-05,Après-midi,L2,Manque matière,5
+2026-10-05,Après-midi,L2,Manque matière,22
+2026-10-05,Après-midi,L2,Attente cariste,3
+2026-10-05,Après-midi,L2,Micro-arrêts,3
+2026-10-05,Après-midi,L2,Micro-arrêts,5
+2026-10-05,Après-midi,L2,Micro-arrêts,8
+2026-10-05,Après-midi,L2,Micro-arrêts,8
+2026-10-05,Après-midi,L2,Micro-arrêts,5
+2026-10-05,Après-midi,L2,Micro-arrêts,7
+2026-10-05,Après-midi,L2,Micro-arrêts,6
+2026-10-05,Après-midi,L3,Changement de série,85
+2026-10-05,Après-midi,L3,Réglage qualité,23
+2026-10-06,Matin,L1,Changement de série,94
+2026-10-06,Matin,L1,Manque matière,10
+2026-10-06,Matin,L1,Attente cariste,14
+2026-10-06,Matin,L1,Attente cariste,15
+2026-10-06,Matin,L1,Micro-arrêts,2
+2026-10-06,Matin,L1,Micro-arrêts,2
+2026-10-06,Matin,L1,Micro-arrêts,2
+2026-10-06,Matin,L2,Panne mécanique,5
+2026-10-06,Matin,L2,Changement de série,50
+2026-10-06,Matin,L2,Changement de série,7
+2026-10-06,Matin,L2,Changement de série,22
+2026-10-06,Matin,L2,Micro-arrêts,6
+2026-10-06,Matin,L2,Micro-arrêts,5
+2026-10-06,Matin,L2,Micro-arrêts,4
+2026-10-06,Matin,L2,Micro-arrêts,4
+2026-10-06,Matin,L2,Micro-arrêts,1
+2026-10-06,Matin,L2,Micro-arrêts,1
+2026-10-06,Matin,L2,Nettoyage non planifié,8
+2026-10-06,Matin,L3,Panne mécanique,33
+2026-10-06,Matin,L3,Panne mécanique,17
+2026-10-06,Matin,L3,Panne mécanique,22
+2026-10-06,Matin,L3,Réglage qualité,18
+2026-10-06,Matin,L3,Réglage qualité,9
+2026-10-06,Matin,L3,Micro-arrêts,2
+2026-10-06,Après-midi,L1,Attente cariste,16
+2026-10-06,Après-midi,L1,Micro-arrêts,7
+2026-10-06,Après-midi,L2,Panne électrique,22
+2026-10-06,Après-midi,L2,Changement de série,8
+2026-10-06,Après-midi,L2,Micro-arrêts,3
+2026-10-06,Après-midi,L2,Micro-arrêts,3
+2026-10-06,Après-midi,L2,Micro-arrêts,4
+2026-10-06,Après-midi,L2,Micro-arrêts,2
+2026-10-06,Après-midi,L2,Micro-arrêts,3
+2026-10-06,Après-midi,L2,Micro-arrêts,6
+2026-10-06,Après-midi,L3,Panne mécanique,16
+2026-10-06,Après-midi,L3,Panne mécanique,15
+2026-10-06,Après-midi,L3,Panne mécanique,17
+2026-10-06,Après-midi,L3,Changement de série,182
+2026-10-06,Après-midi,L3,Micro-arrêts,3
+2026-10-06,Après-midi,L3,Micro-arrêts,3
+2026-10-07,Matin,L1,Panne mécanique,18
+2026-10-07,Matin,L1,Panne électrique,13
+2026-10-07,Matin,L1,Réglage qualité,10
+2026-10-07,Matin,L1,Manque matière,12
+2026-10-07,Matin,L1,Manque matière,6
+2026-10-07,Matin,L1,Manque matière,10
+2026-10-07,Matin,L1,Attente cariste,4
+2026-10-07,Matin,L1,Micro-arrêts,2
+2026-10-07,Matin,L1,Micro-arrêts,3
+2026-10-07,Matin,L1,Micro-arrêts,2
+2026-10-07,Matin,L2,Manque matière,6
+2026-10-07,Matin,L2,Attente cariste,33
+2026-10-07,Matin,L2,Micro-arrêts,8
+2026-10-07,Matin,L2,Micro-arrêts,3
+2026-10-07,Matin,L2,Micro-arrêts,5
+2026-10-07,Matin,L2,Micro-arrêts,2
+2026-10-07,Matin,L2,Micro-arrêts,1
+2026-10-07,Matin,L3,Panne mécanique,7
+2026-10-07,Matin,L3,Panne électrique,15
+2026-10-07,Matin,L3,Panne électrique,34
+2026-10-07,Matin,L3,Panne électrique,26
+2026-10-07,Matin,L3,Micro-arrêts,4
+2026-10-07,Matin,L3,Micro-arrêts,5
+2026-10-07,Après-midi,L1,Panne mécanique,40
+2026-10-07,Après-midi,L1,Panne mécanique,34
+2026-10-07,Après-midi,L1,Changement de série,23
+2026-10-07,Après-midi,L1,Changement de série,17
+2026-10-07,Après-midi,L2,Panne mécanique,44
+2026-10-07,Après-midi,L2,Changement de série,99
+2026-10-07,Après-midi,L2,Attente cariste,7
+2026-10-07,Après-midi,L2,Micro-arrêts,9
+2026-10-07,Après-midi,L2,Micro-arrêts,3
+2026-10-07,Après-midi,L2,Micro-arrêts,3
+2026-10-07,Après-midi,L2,Micro-arrêts,4
+2026-10-07,Après-midi,L2,Micro-arrêts,4
+2026-10-07,Après-midi,L2,Micro-arrêts,10
+2026-10-07,Après-midi,L3,Panne mécanique,26
+2026-10-07,Après-midi,L3,Panne mécanique,35
+2026-10-07,Après-midi,L3,Panne mécanique,25
+2026-10-07,Après-midi,L3,Changement de série,28
+2026-10-07,Après-midi,L3,Changement de série,26
+2026-10-07,Après-midi,L3,Manque matière,5
+2026-10-07,Après-midi,L3,Manque matière,8
+2026-10-07,Après-midi,L3,Micro-arrêts,2
+2026-10-08,Matin,L1,Manque matière,11
+2026-10-08,Matin,L1,Micro-arrêts,3
+2026-10-08,Matin,L1,Micro-arrêts,11
+2026-10-08,Matin,L1,Micro-arrêts,1
+2026-10-08,Matin,L1,Micro-arrêts,3
+2026-10-08,Matin,L1,Micro-arrêts,3
+2026-10-08,Matin,L1,Micro-arrêts,2
+2026-10-08,Matin,L1,Micro-arrêts,1
+2026-10-08,Matin,L2,Attente cariste,13
+2026-10-08,Matin,L2,Micro-arrêts,2
+2026-10-08,Matin,L2,Micro-arrêts,3
+2026-10-08,Matin,L2,Micro-arrêts,5
+2026-10-08,Matin,L2,Micro-arrêts,3
+2026-10-08,Matin,L3,Changement de série,96
+2026-10-08,Matin,L3,Micro-arrêts,3
+2026-10-08,Matin,L3,Micro-arrêts,1
+2026-10-08,Matin,L3,Micro-arrêts,2
+2026-10-08,Après-midi,L1,Réglage qualité,2
+2026-10-08,Après-midi,L1,Micro-arrêts,1
+2026-10-08,Après-midi,L1,Micro-arrêts,4
+2026-10-08,Après-midi,L2,Panne mécanique,29
+2026-10-08,Après-midi,L2,Panne électrique,15
+2026-10-08,Après-midi,L2,Changement de série,112
+2026-10-08,Après-midi,L2,Manque matière,7
+2026-10-08,Après-midi,L2,Attente cariste,13
+2026-10-08,Après-midi,L2,Micro-arrêts,3
+2026-10-08,Après-midi,L2,Micro-arrêts,8
+2026-10-08,Après-midi,L2,Micro-arrêts,6
+2026-10-08,Après-midi,L2,Micro-arrêts,3
+2026-10-08,Après-midi,L2,Nettoyage non planifié,3
+2026-10-08,Après-midi,L3,Panne mécanique,11
+2026-10-08,Après-midi,L3,Panne mécanique,23
+2026-10-08,Après-midi,L3,Panne électrique,15
+2026-10-08,Après-midi,L3,Panne électrique,2
+2026-10-09,Matin,L1,Changement de série,4
+2026-10-09,Matin,L1,Changement de série,8
+2026-10-09,Matin,L1,Réglage qualité,15
+2026-10-09,Matin,L1,Attente cariste,23
+2026-10-09,Matin,L1,Micro-arrêts,7
+2026-10-09,Matin,L1,Micro-arrêts,13
+2026-10-09,Matin,L1,Micro-arrêts,1
+2026-10-09,Matin,L1,Nettoyage non planifié,6
+2026-10-09,Matin,L2,Micro-arrêts,8
+2026-10-09,Matin,L2,Micro-arrêts,4
+2026-10-09,Matin,L2,Micro-arrêts,3
+2026-10-09,Matin,L3,Panne mécanique,31
+2026-10-09,Matin,L3,Panne mécanique,47
+2026-10-09,Matin,L3,Changement de série,69
+2026-10-09,Matin,L3,Changement de série,11
+2026-10-09,Matin,L3,Attente cariste,2
+2026-10-09,Matin,L3,Micro-arrêts,3
+2026-10-09,Après-midi,L1,Changement de série,10
+2026-10-09,Après-midi,L1,Micro-arrêts,1
+2026-10-09,Après-midi,L1,Micro-arrêts,3
+2026-10-09,Après-midi,L1,Micro-arrêts,12
+2026-10-09,Après-midi,L2,Panne électrique,6
+2026-10-09,Après-midi,L2,Micro-arrêts,2
+2026-10-09,Après-midi,L2,Micro-arrêts,9
+2026-10-09,Après-midi,L2,Micro-arrêts,2
+2026-10-09,Après-midi,L2,Nettoyage non planifié,9
+2026-10-09,Après-midi,L3,Réglage qualité,3
+2026-10-12,Matin,L1,Manque matière,30
+2026-10-12,Matin,L1,Manque matière,10
+2026-10-12,Matin,L1,Micro-arrêts,4
+2026-10-12,Matin,L1,Micro-arrêts,5
+2026-10-12,Matin,L1,Micro-arrêts,5
+2026-10-12,Matin,L1,Micro-arrêts,4
+2026-10-12,Matin,L1,Micro-arrêts,3
+2026-10-12,Matin,L1,Micro-arrêts,5
+2026-10-12,Matin,L2,Panne électrique,23
+2026-10-12,Matin,L2,Changement de série,16
+2026-10-12,Matin,L2,Changement de série,17
+2026-10-12,Matin,L2,Attente cariste,28
+2026-10-12,Matin,L2,Micro-arrêts,4
+2026-10-12,Matin,L2,Micro-arrêts,7
+2026-10-12,Matin,L2,Micro-arrêts,4
+2026-10-12,Matin,L2,Micro-arrêts,5
+2026-10-12,Matin,L2,Micro-arrêts,14
+2026-10-12,Matin,L2,Micro-arrêts,5
+2026-10-12,Après-midi,L1,Panne mécanique,9
+2026-10-12,Après-midi,L1,Panne électrique,34
+2026-10-12,Après-midi,L1,Changement de série,33
+2026-10-12,Après-midi,L1,Changement de série,52
+2026-10-12,Après-midi,L1,Changement de série,8
+2026-10-12,Après-midi,L1,Réglage qualité,9
+2026-10-12,Après-midi,L1,Réglage qualité,1
+2026-10-12,Après-midi,L1,Micro-arrêts,7
+2026-10-12,Après-midi,L2,Changement de série,1
+2026-10-12,Après-midi,L2,Changement de série,7
+2026-10-12,Après-midi,L2,Attente cariste,29
+2026-10-12,Après-midi,L2,Micro-arrêts,3
+2026-10-12,Après-midi,L2,Micro-arrêts,1
+2026-10-12,Après-midi,L2,Micro-arrêts,2
+2026-10-12,Après-midi,L2,Micro-arrêts,4
+2026-10-12,Après-midi,L2,Micro-arrêts,2
+2026-10-12,Après-midi,L2,Micro-arrêts,4
+2026-10-12,Après-midi,L2,Micro-arrêts,1
+2026-10-12,Après-midi,L2,Micro-arrêts,1
+2026-10-12,Après-midi,L3,Panne mécanique,24
+2026-10-12,Après-midi,L3,Changement de série,2
+2026-10-12,Après-midi,L3,Changement de série,8
+2026-10-12,Après-midi,L3,Réglage qualité,28
+2026-10-12,Après-midi,L3,Attente cariste,11
+2026-10-12,Après-midi,L3,Micro-arrêts,1
+2026-10-12,Après-midi,L3,Micro-arrêts,1
+2026-10-12,Après-midi,L3,Micro-arrêts,2
+2026-10-13,Matin,L1,Panne mécanique,28
+2026-10-13,Matin,L1,Panne mécanique,35
+2026-10-13,Matin,L1,Changement de série,33
+2026-10-13,Matin,L1,Changement de série,48
+2026-10-13,Matin,L1,Micro-arrêts,2
+2026-10-13,Matin,L1,Micro-arrêts,1
+2026-10-13,Matin,L1,Nettoyage non planifié,2
+2026-10-13,Matin,L1,Nettoyage non planifié,4
+2026-10-13,Matin,L2,Changement de série,15
+2026-10-13,Matin,L2,Changement de série,33
+2026-10-13,Matin,L2,Changement de série,19
+2026-10-13,Matin,L2,Réglage qualité,5
+2026-10-13,Matin,L2,Réglage qualité,7
+2026-10-13,Matin,L2,Manque matière,18
+2026-10-13,Matin,L2,Attente cariste,10
+2026-10-13,Matin,L2,Micro-arrêts,4
+2026-10-13,Matin,L2,Nettoyage non planifié,12
+2026-10-13,Matin,L3,Panne mécanique,23
+2026-10-13,Matin,L3,Panne mécanique,20
+2026-10-13,Matin,L3,Panne électrique,31
+2026-10-13,Matin,L3,Changement de série,22
+2026-10-13,Matin,L3,Réglage qualité,8
+2026-10-13,Matin,L3,Micro-arrêts,6
+2026-10-13,Matin,L3,Micro-arrêts,7
+2026-10-13,Matin,L3,Micro-arrêts,2
+2026-10-13,Après-midi,L1,Panne mécanique,7
+2026-10-13,Après-midi,L1,Panne électrique,13
+2026-10-13,Après-midi,L1,Micro-arrêts,3
+2026-10-13,Après-midi,L1,Micro-arrêts,6
+2026-10-13,Après-midi,L1,Micro-arrêts,1
+2026-10-13,Après-midi,L1,Micro-arrêts,4
+2026-10-13,Après-midi,L2,Changement de série,8
+2026-10-13,Après-midi,L2,Changement de série,39
+2026-10-13,Après-midi,L2,Changement de série,4
+2026-10-13,Après-midi,L2,Manque matière,5
+2026-10-13,Après-midi,L2,Micro-arrêts,3
+2026-10-13,Après-midi,L2,Micro-arrêts,3
+2026-10-13,Après-midi,L2,Micro-arrêts,15
+2026-10-13,Après-midi,L2,Micro-arrêts,5
+2026-10-13,Après-midi,L2,Micro-arrêts,4
+2026-10-13,Après-midi,L2,Micro-arrêts,3
+2026-10-13,Après-midi,L2,Micro-arrêts,6
+2026-10-13,Après-midi,L2,Micro-arrêts,1
+2026-10-13,Après-midi,L3,Panne mécanique,42
+2026-10-13,Après-midi,L3,Panne mécanique,65
+2026-10-13,Après-midi,L3,Panne électrique,37
+2026-10-13,Après-midi,L3,Changement de série,12
+2026-10-13,Après-midi,L3,Changement de série,58
+2026-10-13,Après-midi,L3,Micro-arrêts,7
+2026-10-13,Après-midi,L3,Micro-arrêts,1
+2026-10-14,Matin,L1,Panne mécanique,4
+2026-10-14,Matin,L1,Changement de série,64
+2026-10-14,Matin,L1,Changement de série,24
+2026-10-14,Matin,L1,Changement de série,24
+2026-10-14,Matin,L1,Attente cariste,9
+2026-10-14,Matin,L1,Attente cariste,9
+2026-10-14,Matin,L1,Micro-arrêts,5
+2026-10-14,Matin,L1,Micro-arrêts,1
+2026-10-14,Matin,L1,Micro-arrêts,7
+2026-10-14,Matin,L1,Micro-arrêts,2
+2026-10-14,Matin,L1,Micro-arrêts,1
+2026-10-14,Matin,L1,Micro-arrêts,8
+2026-10-14,Matin,L1,Micro-arrêts,4
+2026-10-14,Matin,L1,Micro-arrêts,5
+2026-10-14,Matin,L1,Micro-arrêts,2
+2026-10-14,Matin,L1,Nettoyage non planifié,13
+2026-10-14,Matin,L2,Changement de série,41
+2026-10-14,Matin,L2,Micro-arrêts,1
+2026-10-14,Matin,L2,Micro-arrêts,1
+2026-10-14,Matin,L2,Micro-arrêts,7
+2026-10-14,Matin,L2,Micro-arrêts,3
+2026-10-14,Matin,L2,Micro-arrêts,5
+2026-10-14,Matin,L2,Micro-arrêts,8
+2026-10-14,Matin,L2,Micro-arrêts,1
+2026-10-14,Matin,L2,Nettoyage non planifié,7
+2026-10-14,Matin,L3,Changement de série,46
+2026-10-14,Matin,L3,Micro-arrêts,6
+2026-10-14,Après-midi,L1,Panne mécanique,32
+2026-10-14,Après-midi,L1,Changement de série,35
+2026-10-14,Après-midi,L1,Réglage qualité,9
+2026-10-14,Après-midi,L1,Manque matière,7
+2026-10-14,Après-midi,L1,Micro-arrêts,14
+2026-10-14,Après-midi,L2,Panne électrique,13
+2026-10-14,Après-midi,L2,Changement de série,39
+2026-10-14,Après-midi,L2,Manque matière,40
+2026-10-14,Après-midi,L2,Manque matière,11
+2026-10-14,Après-midi,L2,Micro-arrêts,4
+2026-10-14,Après-midi,L2,Micro-arrêts,6
+2026-10-14,Après-midi,L2,Micro-arrêts,1
+2026-10-14,Après-midi,L2,Nettoyage non planifié,25
+2026-10-14,Après-midi,L3,Panne mécanique,19
+2026-10-14,Après-midi,L3,Panne mécanique,17
+2026-10-14,Après-midi,L3,Panne mécanique,9
+2026-10-14,Après-midi,L3,Panne mécanique,16
+2026-10-14,Après-midi,L3,Changement de série,15
+2026-10-14,Après-midi,L3,Manque matière,28
+2026-10-14,Après-midi,L3,Manque matière,5
+2026-10-14,Après-midi,L3,Micro-arrêts,1
+2026-10-14,Après-midi,L3,Micro-arrêts,4
+2026-10-14,Après-midi,L3,Nettoyage non planifié,6
+2026-10-15,Matin,L1,Réglage qualité,14
+2026-10-15,Matin,L1,Manque matière,22
+2026-10-15,Matin,L1,Attente cariste,9
+2026-10-15,Matin,L1,Micro-arrêts,4
+2026-10-15,Matin,L1,Micro-arrêts,1
+2026-10-15,Matin,L2,Micro-arrêts,4
+2026-10-15,Matin,L2,Micro-arrêts,5
+2026-10-15,Matin,L2,Micro-arrêts,1
+2026-10-15,Matin,L2,Micro-arrêts,2
+2026-10-15,Matin,L2,Micro-arrêts,8
+2026-10-15,Matin,L2,Micro-arrêts,7
+2026-10-15,Matin,L2,Micro-arrêts,9
+2026-10-15,Matin,L2,Micro-arrêts,8
+2026-10-15,Matin,L2,Micro-arrêts,4
+2026-10-15,Matin,L2,Micro-arrêts,5
+2026-10-15,Matin,L2,Micro-arrêts,6
+2026-10-15,Matin,L2,Micro-arrêts,2
+2026-10-15,Matin,L3,Panne mécanique,16
+2026-10-15,Matin,L3,Changement de série,7
+2026-10-15,Matin,L3,Réglage qualité,24
+2026-10-15,Matin,L3,Attente cariste,2
+2026-10-15,Après-midi,L1,Panne mécanique,43
+2026-10-15,Après-midi,L1,Changement de série,45
+2026-10-15,Après-midi,L1,Réglage qualité,21
+2026-10-15,Après-midi,L1,Attente cariste,2
+2026-10-15,Après-midi,L1,Attente cariste,2
+2026-10-15,Après-midi,L1,Micro-arrêts,2
+2026-10-15,Après-midi,L1,Micro-arrêts,3
+2026-10-15,Après-midi,L1,Micro-arrêts,9
+2026-10-15,Après-midi,L1,Micro-arrêts,1
+2026-10-15,Après-midi,L1,Micro-arrêts,11
+2026-10-15,Après-midi,L1,Micro-arrêts,3
+2026-10-15,Après-midi,L2,Panne électrique,37
+2026-10-15,Après-midi,L2,Changement de série,28
+2026-10-15,Après-midi,L2,Réglage qualité,5
+2026-10-15,Après-midi,L2,Réglage qualité,14
+2026-10-15,Après-midi,L2,Micro-arrêts,4
+2026-10-15,Après-midi,L2,Micro-arrêts,2
+2026-10-15,Après-midi,L2,Micro-arrêts,4
+2026-10-15,Après-midi,L2,Micro-arrêts,4
+2026-10-15,Après-midi,L2,Micro-arrêts,5
+2026-10-15,Après-midi,L2,Micro-arrêts,4
+2026-10-15,Après-midi,L2,Nettoyage non planifié,6
+2026-10-15,Après-midi,L3,Attente cariste,13
+2026-10-15,Après-midi,L3,Micro-arrêts,2
+2026-10-15,Après-midi,L3,Micro-arrêts,3
+2026-10-16,Matin,L1,Panne électrique,8
+2026-10-16,Matin,L1,Changement de série,32
+2026-10-16,Matin,L1,Micro-arrêts,5
+2026-10-16,Matin,L1,Micro-arrêts,5
+2026-10-16,Matin,L1,Micro-arrêts,5
+2026-10-16,Matin,L1,Micro-arrêts,6
+2026-10-16,Matin,L2,Panne mécanique,30
+2026-10-16,Matin,L2,Changement de série,33
+2026-10-16,Matin,L2,Attente cariste,4
+2026-10-16,Matin,L2,Micro-arrêts,2
+2026-10-16,Matin,L2,Micro-arrêts,5
+2026-10-16,Matin,L2,Micro-arrêts,1
+2026-10-16,Matin,L2,Micro-arrêts,8
+2026-10-16,Matin,L2,Micro-arrêts,1
+2026-10-16,Matin,L2,Micro-arrêts,5
+2026-10-16,Matin,L3,Micro-arrêts,1
+2026-10-16,Matin,L3,Micro-arrêts,4
+2026-10-16,Après-midi,L1,Panne électrique,19
+2026-10-16,Après-midi,L1,Changement de série,91
+2026-10-16,Après-midi,L1,Attente cariste,1
+2026-10-16,Après-midi,L1,Micro-arrêts,2
+2026-10-16,Après-midi,L1,Micro-arrêts,1
+2026-10-16,Après-midi,L1,Micro-arrêts,7
+2026-10-16,Après-midi,L2,Panne électrique,9
+2026-10-16,Après-midi,L2,Changement de série,25
+2026-10-16,Après-midi,L2,Micro-arrêts,2
+2026-10-16,Après-midi,L2,Micro-arrêts,1
+2026-10-16,Après-midi,L2,Micro-arrêts,6
+2026-10-16,Après-midi,L2,Micro-arrêts,6
+2026-10-16,Après-midi,L2,Micro-arrêts,2
+2026-10-16,Après-midi,L3,Changement de série,11
+2026-10-16,Après-midi,L3,Micro-arrêts,4
+2026-10-19,Matin,L1,Panne mécanique,39
+2026-10-19,Matin,L1,Attente cariste,2
+2026-10-19,Matin,L1,Micro-arrêts,2
+2026-10-19,Matin,L1,Micro-arrêts,2
+2026-10-19,Matin,L1,Nettoyage non planifié,28
+2026-10-19,Matin,L2,Changement de série,34
+2026-10-19,Matin,L2,Réglage qualité,4
+2026-10-19,Matin,L2,Micro-arrêts,1
+2026-10-19,Matin,L2,Micro-arrêts,7
+2026-10-19,Matin,L2,Micro-arrêts,2
+2026-10-19,Matin,L2,Micro-arrêts,5
+2026-10-19,Matin,L2,Micro-arrêts,12
+2026-10-19,Matin,L2,Micro-arrêts,5
+2026-10-19,Matin,L2,Micro-arrêts,2
+2026-10-19,Matin,L3,Panne mécanique,28
+2026-10-19,Matin,L3,Changement de série,97
+2026-10-19,Matin,L3,Réglage qualité,11
+2026-10-19,Matin,L3,Réglage qualité,2
+2026-10-19,Matin,L3,Manque matière,2
+2026-10-19,Matin,L3,Micro-arrêts,3
+2026-10-19,Après-midi,L1,Panne mécanique,15
+2026-10-19,Après-midi,L1,Micro-arrêts,1
+2026-10-19,Après-midi,L1,Micro-arrêts,1
+2026-10-19,Après-midi,L1,Micro-arrêts,3
+2026-10-19,Après-midi,L2,Panne mécanique,18
+2026-10-19,Après-midi,L2,Réglage qualité,2
+2026-10-19,Après-midi,L2,Micro-arrêts,7
+2026-10-19,Après-midi,L2,Micro-arrêts,3
+2026-10-19,Après-midi,L2,Micro-arrêts,3
+2026-10-19,Après-midi,L2,Micro-arrêts,5
+2026-10-19,Après-midi,L2,Micro-arrêts,3
+2026-10-19,Après-midi,L2,Micro-arrêts,4
+2026-10-19,Après-midi,L3,Panne électrique,40
+2026-10-19,Après-midi,L3,Manque matière,23
+2026-10-19,Après-midi,L3,Micro-arrêts,3
+2026-10-19,Après-midi,L3,Micro-arrêts,4
+2026-10-20,Matin,L1,Panne mécanique,8
+2026-10-20,Matin,L1,Changement de série,2
+2026-10-20,Matin,L1,Changement de série,38
+2026-10-20,Matin,L1,Manque matière,14
+2026-10-20,Matin,L1,Attente cariste,2
+2026-10-20,Matin,L1,Micro-arrêts,5
+2026-10-20,Matin,L1,Micro-arrêts,5
+2026-10-20,Matin,L1,Micro-arrêts,1
+2026-10-20,Matin,L1,Micro-arrêts,2
+2026-10-20,Matin,L2,Changement de série,47
+2026-10-20,Matin,L2,Attente cariste,16
+2026-10-20,Matin,L2,Attente cariste,19
+2026-10-20,Matin,L2,Micro-arrêts,3
+2026-10-20,Matin,L2,Micro-arrêts,4
+2026-10-20,Matin,L2,Micro-arrêts,7
+2026-10-20,Matin,L3,Panne mécanique,5
+2026-10-20,Matin,L3,Panne électrique,32
+2026-10-20,Matin,L3,Changement de série,32
+2026-10-20,Matin,L3,Réglage qualité,18
+2026-10-20,Matin,L3,Réglage qualité,10
+2026-10-20,Matin,L3,Micro-arrêts,2
+2026-10-20,Matin,L3,Micro-arrêts,4
+2026-10-20,Matin,L3,Micro-arrêts,5
+2026-10-20,Matin,L3,Micro-arrêts,6
+2026-10-20,Après-midi,L1,Changement de série,55
+2026-10-20,Après-midi,L1,Changement de série,44
+2026-10-20,Après-midi,L1,Micro-arrêts,3
+2026-10-20,Après-midi,L1,Micro-arrêts,2
+2026-10-20,Après-midi,L1,Micro-arrêts,3
+2026-10-20,Après-midi,L1,Micro-arrêts,10
+2026-10-20,Après-midi,L1,Micro-arrêts,4
+2026-10-20,Après-midi,L1,Micro-arrêts,8
+2026-10-20,Après-midi,L1,Micro-arrêts,2
+2026-10-20,Après-midi,L1,Nettoyage non planifié,7
+2026-10-20,Après-midi,L2,Réglage qualité,12
+2026-10-20,Après-midi,L2,Micro-arrêts,6
+2026-10-20,Après-midi,L2,Micro-arrêts,2
+2026-10-20,Après-midi,L2,Micro-arrêts,2
+2026-10-20,Après-midi,L2,Micro-arrêts,14
+2026-10-20,Après-midi,L2,Micro-arrêts,5
+2026-10-20,Après-midi,L3,Panne mécanique,23
+2026-10-20,Après-midi,L3,Panne mécanique,96
+2026-10-20,Après-midi,L3,Manque matière,7
+2026-10-20,Après-midi,L3,Micro-arrêts,2
+2026-10-21,Matin,L1,Panne électrique,77
+2026-10-21,Matin,L1,Changement de série,29
+2026-10-21,Matin,L1,Changement de série,12
+2026-10-21,Matin,L1,Réglage qualité,2
+2026-10-21,Matin,L1,Manque matière,22
+2026-10-21,Matin,L2,Micro-arrêts,2
+2026-10-21,Matin,L2,Micro-arrêts,4
+2026-10-21,Matin,L2,Micro-arrêts,9
+2026-10-21,Matin,L2,Nettoyage non planifié,6
+2026-10-21,Matin,L3,Panne électrique,17
+2026-10-21,Matin,L3,Micro-arrêts,3
+2026-10-21,Après-midi,L1,Panne électrique,18
+2026-10-21,Après-midi,L1,Réglage qualité,29
+2026-10-21,Après-midi,L1,Réglage qualité,7
+2026-10-21,Après-midi,L1,Réglage qualité,28
+2026-10-21,Après-midi,L1,Attente cariste,6
+2026-10-21,Après-midi,L1,Attente cariste,3
+2026-10-21,Après-midi,L1,Micro-arrêts,4
+2026-10-21,Après-midi,L1,Micro-arrêts,3
+2026-10-21,Après-midi,L1,Micro-arrêts,1
+2026-10-21,Après-midi,L2,Changement de série,11
+2026-10-21,Après-midi,L2,Changement de série,6
+2026-10-21,Après-midi,L2,Réglage qualité,5
+2026-10-21,Après-midi,L2,Manque matière,29
+2026-10-21,Après-midi,L2,Manque matière,11
+2026-10-21,Après-midi,L2,Attente cariste,12
+2026-10-21,Après-midi,L2,Micro-arrêts,5
+2026-10-21,Après-midi,L2,Micro-arrêts,4
+2026-10-21,Après-midi,L2,Micro-arrêts,3
+2026-10-21,Après-midi,L2,Nettoyage non planifié,8
+2026-10-21,Après-midi,L3,Panne électrique,20
+2026-10-21,Après-midi,L3,Changement de série,27
+2026-10-21,Après-midi,L3,Réglage qualité,25
+2026-10-21,Après-midi,L3,Réglage qualité,9
+2026-10-21,Après-midi,L3,Micro-arrêts,1
+2026-10-22,Matin,L1,Panne mécanique,10
+2026-10-22,Matin,L1,Changement de série,36
+2026-10-22,Matin,L1,Attente cariste,3
+2026-10-22,Matin,L1,Attente cariste,22
+2026-10-22,Matin,L1,Micro-arrêts,5
+2026-10-22,Matin,L1,Micro-arrêts,4
+2026-10-22,Matin,L1,Micro-arrêts,1
+2026-10-22,Matin,L1,Micro-arrêts,3
+2026-10-22,Matin,L2,Micro-arrêts,4
+2026-10-22,Matin,L2,Micro-arrêts,5
+2026-10-22,Matin,L2,Micro-arrêts,1
+2026-10-22,Matin,L2,Micro-arrêts,7
+2026-10-22,Matin,L2,Micro-arrêts,2
+2026-10-22,Matin,L2,Micro-arrêts,3
+2026-10-22,Matin,L3,Panne électrique,2
+2026-10-22,Matin,L3,Changement de série,29
+2026-10-22,Matin,L3,Réglage qualité,8
+2026-10-22,Matin,L3,Nettoyage non planifié,2
+2026-10-22,Matin,L3,Nettoyage non planifié,23
+2026-10-22,Après-midi,L1,Panne électrique,25
+2026-10-22,Après-midi,L1,Changement de série,34
+2026-10-22,Après-midi,L1,Changement de série,14
+2026-10-22,Après-midi,L1,Micro-arrêts,6
+2026-10-22,Après-midi,L1,Micro-arrêts,2
+2026-10-22,Après-midi,L1,Micro-arrêts,7
+2026-10-22,Après-midi,L1,Micro-arrêts,1
+2026-10-22,Après-midi,L2,Réglage qualité,20
+2026-10-22,Après-midi,L2,Attente cariste,4
+2026-10-22,Après-midi,L2,Micro-arrêts,3
+2026-10-22,Après-midi,L2,Micro-arrêts,8
+2026-10-22,Après-midi,L2,Micro-arrêts,2
+2026-10-22,Après-midi,L2,Micro-arrêts,3
+2026-10-22,Après-midi,L2,Micro-arrêts,2
+2026-10-22,Après-midi,L2,Micro-arrêts,2
+2026-10-22,Après-midi,L2,Micro-arrêts,5
+2026-10-22,Après-midi,L2,Micro-arrêts,11
+2026-10-22,Après-midi,L2,Nettoyage non planifié,26
+2026-10-22,Après-midi,L3,Changement de série,31
+2026-10-23,Matin,L1,Attente cariste,6
+2026-10-23,Matin,L1,Attente cariste,14
+2026-10-23,Matin,L1,Attente cariste,3
+2026-10-23,Matin,L1,Attente cariste,14
+2026-10-23,Matin,L1,Attente cariste,15
+2026-10-23,Matin,L1,Micro-arrêts,5
+2026-10-23,Matin,L1,Micro-arrêts,4
+2026-10-23,Matin,L1,Micro-arrêts,1
+2026-10-23,Matin,L1,Micro-arrêts,11
+2026-10-23,Matin,L2,Changement de série,44
+2026-10-23,Matin,L2,Changement de série,20
+2026-10-23,Matin,L2,Manque matière,6
+2026-10-23,Matin,L2,Micro-arrêts,1
+2026-10-23,Matin,L2,Micro-arrêts,3
+2026-10-23,Matin,L2,Micro-arrêts,6
+2026-10-23,Matin,L2,Micro-arrêts,1
+2026-10-23,Matin,L2,Micro-arrêts,4
+2026-10-23,Matin,L2,Micro-arrêts,8
+2026-10-23,Matin,L2,Nettoyage non planifié,15
+2026-10-23,Matin,L3,Panne mécanique,48
+2026-10-23,Matin,L3,Panne électrique,26
+2026-10-23,Matin,L3,Panne électrique,15
+2026-10-23,Matin,L3,Changement de série,41
+2026-10-23,Matin,L3,Réglage qualité,11
+2026-10-23,Matin,L3,Réglage qualité,16
+2026-10-23,Matin,L3,Micro-arrêts,3
+2026-10-23,Matin,L3,Micro-arrêts,2
+2026-10-23,Après-midi,L1,Changement de série,13
+2026-10-23,Après-midi,L1,Changement de série,19
+2026-10-23,Après-midi,L1,Réglage qualité,3
+2026-10-23,Après-midi,L1,Micro-arrêts,1
+2026-10-23,Après-midi,L1,Micro-arrêts,3
+2026-10-23,Après-midi,L1,Micro-arrêts,5
+2026-10-23,Après-midi,L1,Micro-arrêts,1
+2026-10-23,Après-midi,L1,Micro-arrêts,3
+2026-10-23,Après-midi,L1,Micro-arrêts,2
+2026-10-23,Après-midi,L1,Nettoyage non planifié,6
+2026-10-23,Après-midi,L2,Panne électrique,40
+2026-10-23,Après-midi,L2,Changement de série,13
+2026-10-23,Après-midi,L2,Micro-arrêts,5
+2026-10-23,Après-midi,L2,Micro-arrêts,2
+2026-10-23,Après-midi,L2,Micro-arrêts,7
+2026-10-23,Après-midi,L2,Micro-arrêts,5
+2026-10-23,Après-midi,L2,Micro-arrêts,12
+2026-10-23,Après-midi,L2,Micro-arrêts,4
+2026-10-23,Après-midi,L2,Micro-arrêts,3
+2026-10-23,Après-midi,L2,Micro-arrêts,9
+2026-10-23,Après-midi,L2,Micro-arrêts,3
+2026-10-23,Après-midi,L2,Micro-arrêts,9
+2026-10-23,Après-midi,L3,Changement de série,33
+2026-10-23,Après-midi,L3,Changement de série,192
+2026-10-23,Après-midi,L3,Micro-arrêts,9
+2026-10-26,Matin,L1,Panne mécanique,5
+2026-10-26,Matin,L1,Réglage qualité,14
+2026-10-26,Matin,L1,Manque matière,17
+2026-10-26,Matin,L1,Micro-arrêts,4
+2026-10-26,Matin,L1,Micro-arrêts,2
+2026-10-26,Matin,L1,Micro-arrêts,2
+2026-10-26,Matin,L1,Micro-arrêts,10
+2026-10-26,Matin,L1,Micro-arrêts,2
+2026-10-26,Matin,L2,Panne électrique,9
+2026-10-26,Matin,L2,Changement de série,10
+2026-10-26,Matin,L2,Réglage qualité,11
+2026-10-26,Matin,L2,Micro-arrêts,1
+2026-10-26,Matin,L2,Micro-arrêts,1
+2026-10-26,Matin,L2,Micro-arrêts,6
+2026-10-26,Matin,L2,Micro-arrêts,5
+2026-10-26,Matin,L2,Micro-arrêts,1
+2026-10-26,Matin,L2,Micro-arrêts,4
+2026-10-26,Matin,L2,Micro-arrêts,3
+2026-10-26,Matin,L2,Micro-arrêts,1
+2026-10-26,Matin,L2,Micro-arrêts,1
+2026-10-26,Matin,L2,Micro-arrêts,4
+2026-10-26,Matin,L2,Micro-arrêts,5
+2026-10-26,Matin,L3,Panne mécanique,16
+2026-10-26,Matin,L3,Panne mécanique,18
+2026-10-26,Matin,L3,Changement de série,24
+2026-10-26,Matin,L3,Changement de série,35
+2026-10-26,Matin,L3,Micro-arrêts,1
+2026-10-26,Matin,L3,Micro-arrêts,2
+2026-10-26,Après-midi,L1,Panne mécanique,5
+2026-10-26,Après-midi,L1,Panne électrique,6
+2026-10-26,Après-midi,L1,Panne électrique,13
+2026-10-26,Après-midi,L1,Manque matière,6
+2026-10-26,Après-midi,L1,Manque matière,11
+2026-10-26,Après-midi,L1,Manque matière,16
+2026-10-26,Après-midi,L1,Attente cariste,6
+2026-10-26,Après-midi,L1,Micro-arrêts,7
+2026-10-26,Après-midi,L1,Micro-arrêts,2
+2026-10-26,Après-midi,L1,Micro-arrêts,4
+2026-10-26,Après-midi,L1,Micro-arrêts,4
+2026-10-26,Après-midi,L1,Micro-arrêts,4
+2026-10-26,Après-midi,L1,Micro-arrêts,4
+2026-10-26,Après-midi,L2,Attente cariste,6
+2026-10-26,Après-midi,L2,Micro-arrêts,6
+2026-10-26,Après-midi,L2,Micro-arrêts,14
+2026-10-26,Après-midi,L2,Micro-arrêts,2
+2026-10-26,Après-midi,L2,Micro-arrêts,4
+2026-10-26,Après-midi,L2,Micro-arrêts,1
+2026-10-26,Après-midi,L2,Micro-arrêts,3
+2026-10-26,Après-midi,L2,Nettoyage non planifié,9
+2026-10-26,Après-midi,L2,Nettoyage non planifié,27
+2026-10-26,Après-midi,L3,Micro-arrêts,2
+2026-10-27,Matin,L1,Réglage qualité,22
+2026-10-27,Matin,L1,Micro-arrêts,2
+2026-10-27,Matin,L2,Changement de série,49
+2026-10-27,Matin,L2,Changement de série,1
+2026-10-27,Matin,L2,Réglage qualité,11
+2026-10-27,Matin,L2,Attente cariste,4
+2026-10-27,Matin,L2,Micro-arrêts,4
+2026-10-27,Matin,L2,Micro-arrêts,4
+2026-10-27,Matin,L2,Micro-arrêts,6
+2026-10-27,Matin,L2,Micro-arrêts,4
+2026-10-27,Matin,L2,Micro-arrêts,5
+2026-10-27,Matin,L2,Micro-arrêts,5
+2026-10-27,Matin,L2,Micro-arrêts,3
+2026-10-27,Matin,L2,Micro-arrêts,1
+2026-10-27,Matin,L2,Micro-arrêts,1
+2026-10-27,Matin,L3,Panne électrique,9
+2026-10-27,Matin,L3,Réglage qualité,6
+2026-10-27,Matin,L3,Micro-arrêts,2
+2026-10-27,Matin,L3,Micro-arrêts,4
+2026-10-27,Matin,L3,Micro-arrêts,4
+2026-10-27,Après-midi,L1,Panne mécanique,39
+2026-10-27,Après-midi,L1,Réglage qualité,12
+2026-10-27,Après-midi,L1,Attente cariste,4
+2026-10-27,Après-midi,L1,Micro-arrêts,6
+2026-10-27,Après-midi,L1,Micro-arrêts,5
+2026-10-27,Après-midi,L1,Micro-arrêts,1
+2026-10-27,Après-midi,L1,Micro-arrêts,1
+2026-10-27,Après-midi,L1,Micro-arrêts,7
+2026-10-27,Après-midi,L1,Micro-arrêts,5
+2026-10-27,Après-midi,L1,Micro-arrêts,2
+2026-10-27,Après-midi,L2,Panne électrique,5
+2026-10-27,Après-midi,L2,Changement de série,4
+2026-10-27,Après-midi,L2,Micro-arrêts,3
+2026-10-27,Après-midi,L2,Micro-arrêts,5
+2026-10-27,Après-midi,L2,Micro-arrêts,1
+2026-10-27,Après-midi,L2,Micro-arrêts,4
+2026-10-27,Après-midi,L2,Micro-arrêts,7
+2026-10-27,Après-midi,L3,Réglage qualité,11
+2026-10-27,Après-midi,L3,Micro-arrêts,2
+2026-10-27,Après-midi,L3,Micro-arrêts,4
+2026-10-28,Matin,L1,Changement de série,30
+2026-10-28,Matin,L1,Changement de série,50
+2026-10-28,Matin,L1,Manque matière,10
+2026-10-28,Matin,L1,Attente cariste,3
+2026-10-28,Matin,L1,Attente cariste,20
+2026-10-28,Matin,L1,Micro-arrêts,8
+2026-10-28,Matin,L1,Micro-arrêts,9
+2026-10-28,Matin,L2,Changement de série,28
+2026-10-28,Matin,L2,Micro-arrêts,2
+2026-10-28,Matin,L2,Micro-arrêts,1
+2026-10-28,Matin,L2,Micro-arrêts,8
+2026-10-28,Matin,L2,Micro-arrêts,8
+2026-10-28,Matin,L2,Micro-arrêts,8
+2026-10-28,Matin,L3,Panne mécanique,88
+2026-10-28,Matin,L3,Manque matière,7
+2026-10-28,Matin,L3,Micro-arrêts,2
+2026-10-28,Après-midi,L1,Manque matière,7
+2026-10-28,Après-midi,L1,Manque matière,16
+2026-10-28,Après-midi,L1,Attente cariste,8
+2026-10-28,Après-midi,L1,Attente cariste,15
+2026-10-28,Après-midi,L1,Micro-arrêts,5
+2026-10-28,Après-midi,L1,Micro-arrêts,4
+2026-10-28,Après-midi,L1,Micro-arrêts,3
+2026-10-28,Après-midi,L1,Micro-arrêts,4
+2026-10-28,Après-midi,L1,Micro-arrêts,1
+2026-10-28,Après-midi,L1,Micro-arrêts,4
+2026-10-28,Après-midi,L1,Micro-arrêts,1
+2026-10-28,Après-midi,L1,Micro-arrêts,6
+2026-10-28,Après-midi,L2,Attente cariste,4
+2026-10-28,Après-midi,L2,Micro-arrêts,2
+2026-10-28,Après-midi,L2,Micro-arrêts,4
+2026-10-28,Après-midi,L2,Micro-arrêts,2
+2026-10-28,Après-midi,L2,Micro-arrêts,4
+2026-10-28,Après-midi,L2,Micro-arrêts,2
+2026-10-28,Après-midi,L2,Micro-arrêts,6
+2026-10-28,Après-midi,L3,Panne mécanique,25
+2026-10-28,Après-midi,L3,Micro-arrêts,8
+2026-10-28,Après-midi,L3,Micro-arrêts,3
+2026-10-28,Après-midi,L3,Micro-arrêts,1
+2026-10-29,Matin,L1,Réglage qualité,2
+2026-10-29,Matin,L1,Micro-arrêts,5
+2026-10-29,Matin,L1,Micro-arrêts,2
+2026-10-29,Matin,L1,Micro-arrêts,9
+2026-10-29,Matin,L1,Micro-arrêts,4
+2026-10-29,Matin,L1,Nettoyage non planifié,5
+2026-10-29,Matin,L2,Panne électrique,3
+2026-10-29,Matin,L2,Changement de série,36
+2026-10-29,Matin,L2,Micro-arrêts,5
+2026-10-29,Matin,L2,Micro-arrêts,3
+2026-10-29,Matin,L2,Micro-arrêts,8
+2026-10-29,Matin,L2,Micro-arrêts,2
+2026-10-29,Matin,L2,Micro-arrêts,7
+2026-10-29,Matin,L2,Micro-arrêts,7
+2026-10-29,Matin,L2,Micro-arrêts,3
+2026-10-29,Matin,L2,Micro-arrêts,3
+2026-10-29,Matin,L2,Micro-arrêts,5
+2026-10-29,Matin,L3,Panne mécanique,10
+2026-10-29,Matin,L3,Réglage qualité,67
+2026-10-29,Matin,L3,Manque matière,5
+2026-10-29,Matin,L3,Micro-arrêts,5
+2026-10-29,Après-midi,L1,Changement de série,30
+2026-10-29,Après-midi,L1,Manque matière,31
+2026-10-29,Après-midi,L1,Attente cariste,8
+2026-10-29,Après-midi,L1,Micro-arrêts,8
+2026-10-29,Après-midi,L1,Micro-arrêts,1
+2026-10-29,Après-midi,L1,Micro-arrêts,3
+2026-10-29,Après-midi,L1,Micro-arrêts,3
+2026-10-29,Après-midi,L2,Panne électrique,28
+2026-10-29,Après-midi,L2,Changement de série,8
+2026-10-29,Après-midi,L2,Attente cariste,6
+2026-10-29,Après-midi,L2,Attente cariste,9
+2026-10-29,Après-midi,L2,Micro-arrêts,1
+2026-10-29,Après-midi,L2,Micro-arrêts,4
+2026-10-29,Après-midi,L2,Micro-arrêts,6
+2026-10-29,Après-midi,L2,Micro-arrêts,7
+2026-10-29,Après-midi,L2,Micro-arrêts,4
+2026-10-29,Après-midi,L2,Micro-arrêts,3
+2026-10-29,Après-midi,L2,Micro-arrêts,2
+2026-10-29,Après-midi,L2,Micro-arrêts,1
+2026-10-29,Après-midi,L3,Panne mécanique,36
+2026-10-29,Après-midi,L3,Manque matière,17
+2026-10-29,Après-midi,L3,Micro-arrêts,2
+2026-10-29,Après-midi,L3,Micro-arrêts,2
+2026-10-30,Matin,L1,Panne mécanique,58
+2026-10-30,Matin,L1,Micro-arrêts,9
+2026-10-30,Matin,L1,Micro-arrêts,5
+2026-10-30,Matin,L1,Micro-arrêts,2
+2026-10-30,Matin,L1,Micro-arrêts,5
+2026-10-30,Matin,L1,Micro-arrêts,9
+2026-10-30,Matin,L2,Changement de série,21
+2026-10-30,Matin,L2,Changement de série,33
+2026-10-30,Matin,L2,Attente cariste,7
+2026-10-30,Matin,L2,Micro-arrêts,4
+2026-10-30,Matin,L2,Micro-arrêts,5
+2026-10-30,Matin,L2,Micro-arrêts,5
+2026-10-30,Matin,L2,Micro-arrêts,8
+2026-10-30,Matin,L2,Micro-arrêts,6
+2026-10-30,Matin,L3,Panne mécanique,57
+2026-10-30,Matin,L3,Panne électrique,4
+2026-10-30,Matin,L3,Changement de série,22
+2026-10-30,Matin,L3,Réglage qualité,9
+2026-10-30,Matin,L3,Attente cariste,7
+2026-10-30,Matin,L3,Micro-arrêts,2
+2026-10-30,Après-midi,L1,Changement de série,39
+2026-10-30,Après-midi,L1,Changement de série,63
+2026-10-30,Après-midi,L1,Réglage qualité,3
+2026-10-30,Après-midi,L1,Attente cariste,4
+2026-10-30,Après-midi,L1,Micro-arrêts,1
+2026-10-30,Après-midi,L1,Micro-arrêts,3
+2026-10-30,Après-midi,L1,Micro-arrêts,1
+2026-10-30,Après-midi,L1,Micro-arrêts,1
+2026-10-30,Après-midi,L2,Panne mécanique,50
+2026-10-30,Après-midi,L2,Changement de série,19
+2026-10-30,Après-midi,L2,Manque matière,9
+2026-10-30,Après-midi,L2,Attente cariste,7
+2026-10-30,Après-midi,L2,Micro-arrêts,6
+2026-10-30,Après-midi,L2,Micro-arrêts,5
+2026-10-30,Après-midi,L2,Micro-arrêts,3
+2026-10-30,Après-midi,L2,Micro-arrêts,5
+2026-10-30,Après-midi,L3,Panne mécanique,28
+2026-10-30,Après-midi,L3,Panne mécanique,6
+2026-10-30,Après-midi,L3,Panne mécanique,41
+2026-10-30,Après-midi,L3,Panne mécanique,2
+2026-10-30,Après-midi,L3,Réglage qualité,15
+2026-10-30,Après-midi,L3,Réglage qualité,24
+2026-10-30,Après-midi,L3,Micro-arrêts,5
+2026-11-02,Matin,L1,Changement de série,12
+2026-11-02,Matin,L1,Changement de série,10
+2026-11-02,Matin,L1,Changement de série,15
+2026-11-02,Matin,L1,Changement de série,39
+2026-11-02,Matin,L1,Réglage qualité,17
+2026-11-02,Matin,L1,Attente cariste,6
+2026-11-02,Matin,L1,Micro-arrêts,9
+2026-11-02,Matin,L1,Micro-arrêts,7
+2026-11-02,Matin,L1,Micro-arrêts,5
+2026-11-02,Matin,L1,Micro-arrêts,5
+2026-11-02,Matin,L1,Micro-arrêts,1
+2026-11-02,Matin,L1,Micro-arrêts,5
+2026-11-02,Matin,L1,Micro-arrêts,4
+2026-11-02,Matin,L1,Micro-arrêts,3
+2026-11-02,Matin,L1,Nettoyage non planifié,10
+2026-11-02,Matin,L2,Panne électrique,7
+2026-11-02,Matin,L2,Changement de série,20
+2026-11-02,Matin,L2,Micro-arrêts,4
+2026-11-02,Matin,L2,Micro-arrêts,2
+2026-11-02,Matin,L2,Micro-arrêts,2
+2026-11-02,Matin,L2,Micro-arrêts,2
+2026-11-02,Matin,L2,Nettoyage non planifié,5
+2026-11-02,Matin,L3,Panne mécanique,14
+2026-11-02,Matin,L3,Panne mécanique,13
+2026-11-02,Matin,L3,Panne mécanique,27
+2026-11-02,Matin,L3,Panne mécanique,35
+2026-11-02,Matin,L3,Changement de série,54
+2026-11-02,Matin,L3,Changement de série,13
+2026-11-02,Matin,L3,Réglage qualité,16
+2026-11-02,Matin,L3,Attente cariste,2
+2026-11-02,Matin,L3,Micro-arrêts,5
+2026-11-02,Matin,L3,Micro-arrêts,3
+2026-11-02,Matin,L3,Micro-arrêts,11
+2026-11-02,Matin,L3,Micro-arrêts,2
+2026-11-02,Après-midi,L1,Changement de série,55
+2026-11-02,Après-midi,L1,Réglage qualité,18
+2026-11-02,Après-midi,L1,Réglage qualité,15
+2026-11-02,Après-midi,L1,Manque matière,29
+2026-11-02,Après-midi,L1,Micro-arrêts,3
+2026-11-02,Après-midi,L1,Micro-arrêts,3
+2026-11-02,Après-midi,L1,Micro-arrêts,4
+2026-11-02,Après-midi,L1,Micro-arrêts,4
+2026-11-02,Après-midi,L1,Nettoyage non planifié,43
+2026-11-02,Après-midi,L2,Réglage qualité,1
+2026-11-02,Après-midi,L2,Micro-arrêts,4
+2026-11-02,Après-midi,L2,Micro-arrêts,1
+2026-11-02,Après-midi,L2,Micro-arrêts,1
+2026-11-02,Après-midi,L2,Micro-arrêts,4
+2026-11-02,Après-midi,L2,Micro-arrêts,7
+2026-11-02,Après-midi,L2,Micro-arrêts,1
+2026-11-02,Après-midi,L3,Panne mécanique,2
+2026-11-02,Après-midi,L3,Manque matière,14
+2026-11-02,Après-midi,L3,Micro-arrêts,1
+2026-11-02,Après-midi,L3,Nettoyage non planifié,22
+2026-11-03,Matin,L1,Panne mécanique,21
+2026-11-03,Matin,L1,Changement de série,25
+2026-11-03,Matin,L1,Attente cariste,25
+2026-11-03,Matin,L1,Micro-arrêts,8
+2026-11-03,Matin,L1,Micro-arrêts,1
+2026-11-03,Matin,L1,Micro-arrêts,1
+2026-11-03,Matin,L1,Micro-arrêts,2
+2026-11-03,Matin,L1,Micro-arrêts,1
+2026-11-03,Matin,L2,Changement de série,26
+2026-11-03,Matin,L2,Attente cariste,3
+2026-11-03,Matin,L2,Micro-arrêts,6
+2026-11-03,Matin,L2,Micro-arrêts,1
+2026-11-03,Matin,L2,Micro-arrêts,5
+2026-11-03,Matin,L2,Micro-arrêts,2
+2026-11-03,Matin,L3,Réglage qualité,6
+2026-11-03,Matin,L3,Réglage qualité,18
+2026-11-03,Matin,L3,Micro-arrêts,2
+2026-11-03,Après-midi,L1,Changement de série,9
+2026-11-03,Après-midi,L1,Micro-arrêts,11
+2026-11-03,Après-midi,L1,Micro-arrêts,1
+2026-11-03,Après-midi,L2,Changement de série,44
+2026-11-03,Après-midi,L2,Réglage qualité,14
+2026-11-03,Après-midi,L2,Réglage qualité,40
+2026-11-03,Après-midi,L2,Attente cariste,1
+2026-11-03,Après-midi,L2,Attente cariste,6
+2026-11-03,Après-midi,L2,Micro-arrêts,4
+2026-11-03,Après-midi,L2,Micro-arrêts,3
+2026-11-03,Après-midi,L2,Micro-arrêts,6
+2026-11-03,Après-midi,L2,Micro-arrêts,2
+2026-11-03,Après-midi,L2,Micro-arrêts,3
+2026-11-03,Après-midi,L2,Micro-arrêts,5
+2026-11-03,Après-midi,L2,Micro-arrêts,4
+2026-11-03,Après-midi,L2,Micro-arrêts,9
+2026-11-03,Après-midi,L3,Panne mécanique,5
+2026-11-03,Après-midi,L3,Panne mécanique,66
+2026-11-03,Après-midi,L3,Panne mécanique,12
+2026-11-03,Après-midi,L3,Panne mécanique,33
+2026-11-03,Après-midi,L3,Panne mécanique,53
+2026-11-03,Après-midi,L3,Panne mécanique,44
+2026-11-03,Après-midi,L3,Micro-arrêts,1
+2026-11-03,Après-midi,L3,Micro-arrêts,4
+2026-11-03,Après-midi,L3,Micro-arrêts,3
+2026-11-04,Matin,L1,Manque matière,9
+2026-11-04,Matin,L1,Micro-arrêts,3
+2026-11-04,Matin,L1,Micro-arrêts,2
+2026-11-04,Matin,L1,Micro-arrêts,6
+2026-11-04,Matin,L1,Micro-arrêts,3
+2026-11-04,Matin,L1,Micro-arrêts,4
+2026-11-04,Matin,L1,Micro-arrêts,3
+2026-11-04,Matin,L2,Panne mécanique,32
+2026-11-04,Matin,L2,Changement de série,40
+2026-11-04,Matin,L2,Changement de série,3
+2026-11-04,Matin,L2,Manque matière,1
+2026-11-04,Matin,L2,Micro-arrêts,5
+2026-11-04,Matin,L2,Micro-arrêts,5
+2026-11-04,Matin,L2,Micro-arrêts,5
+2026-11-04,Matin,L2,Micro-arrêts,1
+2026-11-04,Matin,L3,Manque matière,13
+2026-11-04,Matin,L3,Nettoyage non planifié,31
+2026-11-04,Après-midi,L1,Panne mécanique,25
+2026-11-04,Après-midi,L1,Panne mécanique,17
+2026-11-04,Après-midi,L1,Micro-arrêts,9
+2026-11-04,Après-midi,L1,Micro-arrêts,5
+2026-11-04,Après-midi,L1,Micro-arrêts,6
+2026-11-04,Après-midi,L1,Micro-arrêts,10
+2026-11-04,Après-midi,L1,Micro-arrêts,1
+2026-11-04,Après-midi,L1,Micro-arrêts,2
+2026-11-04,Après-midi,L2,Changement de série,10
+2026-11-04,Après-midi,L2,Changement de série,32
+2026-11-04,Après-midi,L2,Réglage qualité,3
+2026-11-04,Après-midi,L2,Attente cariste,8
+2026-11-04,Après-midi,L2,Micro-arrêts,1
+2026-11-04,Après-midi,L2,Micro-arrêts,5
+2026-11-04,Après-midi,L2,Micro-arrêts,1
+2026-11-04,Après-midi,L2,Micro-arrêts,3
+2026-11-04,Après-midi,L2,Micro-arrêts,3
+2026-11-04,Après-midi,L2,Micro-arrêts,2
+2026-11-04,Après-midi,L2,Micro-arrêts,5
+2026-11-04,Après-midi,L3,Panne mécanique,24
+2026-11-04,Après-midi,L3,Panne mécanique,6
+2026-11-04,Après-midi,L3,Panne mécanique,11
+2026-11-04,Après-midi,L3,Réglage qualité,9
+2026-11-04,Après-midi,L3,Manque matière,22
+2026-11-04,Après-midi,L3,Attente cariste,11
+2026-11-04,Après-midi,L3,Micro-arrêts,3
+2026-11-04,Après-midi,L3,Micro-arrêts,12
+2026-11-04,Après-midi,L3,Micro-arrêts,5
+2026-11-05,Matin,L1,Changement de série,8
+2026-11-05,Matin,L1,Changement de série,61
+2026-11-05,Matin,L1,Micro-arrêts,3
+2026-11-05,Matin,L1,Micro-arrêts,1
+2026-11-05,Matin,L1,Micro-arrêts,1
+2026-11-05,Matin,L1,Micro-arrêts,8
+2026-11-05,Matin,L1,Micro-arrêts,6
+2026-11-05,Matin,L2,Changement de série,19
+2026-11-05,Matin,L2,Attente cariste,5
+2026-11-05,Matin,L2,Attente cariste,23
+2026-11-05,Matin,L2,Micro-arrêts,1
+2026-11-05,Matin,L2,Micro-arrêts,7
+2026-11-05,Matin,L2,Micro-arrêts,1
+2026-11-05,Matin,L2,Micro-arrêts,6
+2026-11-05,Matin,L2,Micro-arrêts,2
+2026-11-05,Matin,L2,Micro-arrêts,6
+2026-11-05,Matin,L2,Micro-arrêts,2
+2026-11-05,Matin,L2,Micro-arrêts,5
+2026-11-05,Matin,L2,Micro-arrêts,4
+2026-11-05,Matin,L2,Nettoyage non planifié,13
+2026-11-05,Matin,L3,Panne mécanique,33
+2026-11-05,Matin,L3,Panne mécanique,30
+2026-11-05,Matin,L3,Micro-arrêts,5
+2026-11-05,Matin,L3,Micro-arrêts,4
+2026-11-05,Après-midi,L1,Panne mécanique,15
+2026-11-05,Après-midi,L1,Panne mécanique,23
+2026-11-05,Après-midi,L1,Réglage qualité,15
+2026-11-05,Après-midi,L1,Micro-arrêts,2
+2026-11-05,Après-midi,L1,Micro-arrêts,3
+2026-11-05,Après-midi,L1,Micro-arrêts,9
+2026-11-05,Après-midi,L2,Manque matière,1
+2026-11-05,Après-midi,L2,Attente cariste,2
+2026-11-05,Après-midi,L2,Micro-arrêts,2
+2026-11-05,Après-midi,L2,Micro-arrêts,9
+2026-11-05,Après-midi,L2,Micro-arrêts,6
+2026-11-05,Après-midi,L2,Micro-arrêts,5
+2026-11-05,Après-midi,L2,Micro-arrêts,6
+2026-11-05,Après-midi,L2,Micro-arrêts,4
+2026-11-05,Après-midi,L2,Micro-arrêts,7
+2026-11-05,Après-midi,L2,Micro-arrêts,7
+2026-11-05,Après-midi,L2,Micro-arrêts,7
+2026-11-05,Après-midi,L2,Nettoyage non planifié,11
+2026-11-05,Après-midi,L3,Micro-arrêts,6
+2026-11-05,Après-midi,L3,Micro-arrêts,1
+2026-11-06,Matin,L1,Micro-arrêts,7
+2026-11-06,Matin,L1,Micro-arrêts,6
+2026-11-06,Matin,L1,Nettoyage non planifié,9
+2026-11-06,Matin,L1,Nettoyage non planifié,3
+2026-11-06,Matin,L2,Panne mécanique,20
+2026-11-06,Matin,L2,Changement de série,11
+2026-11-06,Matin,L2,Changement de série,12
+2026-11-06,Matin,L2,Micro-arrêts,5
+2026-11-06,Matin,L2,Micro-arrêts,1
+2026-11-06,Matin,L2,Micro-arrêts,4
+2026-11-06,Matin,L2,Micro-arrêts,4
+2026-11-06,Matin,L2,Micro-arrêts,1
+2026-11-06,Matin,L2,Micro-arrêts,3
+2026-11-06,Matin,L3,Panne mécanique,51
+2026-11-06,Matin,L3,Panne mécanique,10
+2026-11-06,Matin,L3,Panne mécanique,55
+2026-11-06,Matin,L3,Changement de série,77
+2026-11-06,Matin,L3,Changement de série,25
+2026-11-06,Matin,L3,Micro-arrêts,10
+2026-11-06,Après-midi,L1,Panne mécanique,24
+2026-11-06,Après-midi,L1,Réglage qualité,11
+2026-11-06,Après-midi,L1,Réglage qualité,9
+2026-11-06,Après-midi,L1,Micro-arrêts,10
+2026-11-06,Après-midi,L1,Micro-arrêts,8
+2026-11-06,Après-midi,L1,Micro-arrêts,4
+2026-11-06,Après-midi,L2,Changement de série,10
+2026-11-06,Après-midi,L2,Manque matière,20
+2026-11-06,Après-midi,L2,Manque matière,14
+2026-11-06,Après-midi,L2,Micro-arrêts,15
+2026-11-06,Après-midi,L2,Micro-arrêts,4
+2026-11-06,Après-midi,L2,Micro-arrêts,1
+2026-11-06,Après-midi,L2,Micro-arrêts,8
+2026-11-06,Après-midi,L2,Micro-arrêts,3
+2026-11-06,Après-midi,L3,Panne mécanique,29
+2026-11-06,Après-midi,L3,Panne mécanique,13
+2026-11-06,Après-midi,L3,Panne mécanique,14
+2026-11-06,Après-midi,L3,Panne mécanique,22
+2026-11-06,Après-midi,L3,Panne mécanique,22
+2026-11-06,Après-midi,L3,Changement de série,48
+2026-11-06,Après-midi,L3,Manque matière,12
+2026-11-09,Matin,L1,Panne électrique,4
+2026-11-09,Matin,L1,Changement de série,54
+2026-11-09,Matin,L1,Réglage qualité,8
+2026-11-09,Matin,L1,Micro-arrêts,7
+2026-11-09,Matin,L2,Changement de série,23
+2026-11-09,Matin,L2,Micro-arrêts,7
+2026-11-09,Matin,L2,Micro-arrêts,5
+2026-11-09,Matin,L2,Micro-arrêts,1
+2026-11-09,Matin,L2,Micro-arrêts,2
+2026-11-09,Matin,L2,Micro-arrêts,1
+2026-11-09,Matin,L3,Panne mécanique,16
+2026-11-09,Matin,L3,Changement de série,84
+2026-11-09,Matin,L3,Manque matière,4
+2026-11-09,Matin,L3,Attente cariste,10
+2026-11-09,Matin,L3,Micro-arrêts,2
+2026-11-09,Matin,L3,Micro-arrêts,4
+2026-11-09,Après-midi,L1,Panne mécanique,20
+2026-11-09,Après-midi,L1,Panne mécanique,30
+2026-11-09,Après-midi,L1,Panne électrique,53
+2026-11-09,Après-midi,L1,Changement de série,6
+2026-11-09,Après-midi,L1,Changement de série,72
+2026-11-09,Après-midi,L1,Attente cariste,7
+2026-11-09,Après-midi,L1,Micro-arrêts,1
+2026-11-09,Après-midi,L1,Micro-arrêts,2
+2026-11-09,Après-midi,L1,Micro-arrêts,2
+2026-11-09,Après-midi,L2,Changement de série,9
+2026-11-09,Après-midi,L2,Micro-arrêts,1
+2026-11-09,Après-midi,L2,Micro-arrêts,5
+2026-11-09,Après-midi,L2,Micro-arrêts,2
+2026-11-09,Après-midi,L2,Micro-arrêts,3
+2026-11-09,Après-midi,L2,Micro-arrêts,5
+2026-11-09,Après-midi,L2,Micro-arrêts,2
+2026-11-09,Après-midi,L2,Micro-arrêts,2
+2026-11-09,Après-midi,L2,Micro-arrêts,2
+2026-11-09,Après-midi,L3,Panne mécanique,17
+2026-11-09,Après-midi,L3,Panne mécanique,4
+2026-11-10,Matin,L1,Changement de série,20
+2026-11-10,Matin,L1,Changement de série,8
+2026-11-10,Matin,L1,Changement de série,6
+2026-11-10,Matin,L1,Micro-arrêts,4
+2026-11-10,Matin,L1,Nettoyage non planifié,33
+2026-11-10,Matin,L2,Panne mécanique,88
+2026-11-10,Matin,L2,Panne électrique,9
+2026-11-10,Matin,L2,Manque matière,16
+2026-11-10,Matin,L2,Micro-arrêts,4
+2026-11-10,Matin,L2,Micro-arrêts,4
+2026-11-10,Matin,L2,Micro-arrêts,1
+2026-11-10,Matin,L2,Micro-arrêts,1
+2026-11-10,Matin,L2,Micro-arrêts,11
+2026-11-10,Matin,L2,Micro-arrêts,6
+2026-11-10,Matin,L2,Micro-arrêts,3
+2026-11-10,Matin,L2,Nettoyage non planifié,9
+2026-11-10,Matin,L3,Panne mécanique,22
+2026-11-10,Matin,L3,Panne mécanique,12
+2026-11-10,Matin,L3,Panne mécanique,17
+2026-11-10,Matin,L3,Changement de série,13
+2026-11-10,Matin,L3,Micro-arrêts,6
+2026-11-10,Matin,L3,Micro-arrêts,5
+2026-11-10,Matin,L3,Micro-arrêts,2
+2026-11-10,Matin,L3,Micro-arrêts,5
+2026-11-10,Après-midi,L1,Réglage qualité,5
+2026-11-10,Après-midi,L1,Réglage qualité,7
+2026-11-10,Après-midi,L1,Attente cariste,7
+2026-11-10,Après-midi,L1,Micro-arrêts,2
+2026-11-10,Après-midi,L1,Micro-arrêts,1
+2026-11-10,Après-midi,L1,Micro-arrêts,3
+2026-11-10,Après-midi,L2,Changement de série,17
+2026-11-10,Après-midi,L2,Réglage qualité,3
+2026-11-10,Après-midi,L2,Manque matière,21
+2026-11-10,Après-midi,L2,Attente cariste,3
+2026-11-10,Après-midi,L2,Micro-arrêts,4
+2026-11-10,Après-midi,L2,Micro-arrêts,1
+2026-11-10,Après-midi,L2,Micro-arrêts,1
+2026-11-10,Après-midi,L2,Micro-arrêts,8
+2026-11-10,Après-midi,L2,Micro-arrêts,2
+2026-11-10,Après-midi,L2,Micro-arrêts,5
+2026-11-10,Après-midi,L2,Micro-arrêts,3
+2026-11-10,Après-midi,L2,Micro-arrêts,5
+2026-11-10,Après-midi,L2,Micro-arrêts,4
+2026-11-10,Après-midi,L3,Panne mécanique,18
+2026-11-10,Après-midi,L3,Micro-arrêts,7
+2026-11-11,Matin,L1,Panne mécanique,18
+2026-11-11,Matin,L1,Changement de série,22
+2026-11-11,Matin,L1,Changement de série,29
+2026-11-11,Matin,L1,Changement de série,8
+2026-11-11,Matin,L1,Réglage qualité,11
+2026-11-11,Matin,L1,Attente cariste,6
+2026-11-11,Matin,L1,Micro-arrêts,2
+2026-11-11,Matin,L1,Micro-arrêts,7
+2026-11-11,Matin,L1,Micro-arrêts,4
+2026-11-11,Matin,L2,Panne mécanique,2
+2026-11-11,Matin,L2,Réglage qualité,18
+2026-11-11,Matin,L2,Réglage qualité,7
+2026-11-11,Matin,L2,Attente cariste,8
+2026-11-11,Matin,L2,Micro-arrêts,7
+2026-11-11,Matin,L2,Micro-arrêts,4
+2026-11-11,Matin,L2,Micro-arrêts,7
+2026-11-11,Matin,L2,Micro-arrêts,4
+2026-11-11,Matin,L2,Micro-arrêts,4
+2026-11-11,Matin,L2,Micro-arrêts,6
+2026-11-11,Matin,L2,Nettoyage non planifié,17
+2026-11-11,Matin,L3,Panne mécanique,55
+2026-11-11,Matin,L3,Micro-arrêts,4
+2026-11-11,Matin,L3,Micro-arrêts,7
+2026-11-11,Matin,L3,Micro-arrêts,1
+2026-11-11,Matin,L3,Micro-arrêts,5
+2026-11-11,Après-midi,L1,Micro-arrêts,5
+2026-11-11,Après-midi,L1,Micro-arrêts,2
+2026-11-11,Après-midi,L1,Micro-arrêts,5
+2026-11-11,Après-midi,L1,Micro-arrêts,3
+2026-11-11,Après-midi,L1,Micro-arrêts,8
+2026-11-11,Après-midi,L1,Micro-arrêts,13
+2026-11-11,Après-midi,L1,Micro-arrêts,1
+2026-11-11,Après-midi,L1,Nettoyage non planifié,16
+2026-11-11,Après-midi,L2,Panne électrique,39
+2026-11-11,Après-midi,L2,Changement de série,11
+2026-11-11,Après-midi,L2,Manque matière,19
+2026-11-11,Après-midi,L2,Micro-arrêts,1
+2026-11-11,Après-midi,L2,Micro-arrêts,3
+2026-11-11,Après-midi,L2,Micro-arrêts,2
+2026-11-11,Après-midi,L2,Micro-arrêts,7
+2026-11-11,Après-midi,L2,Micro-arrêts,1
+2026-11-11,Après-midi,L2,Micro-arrêts,2
+2026-11-11,Après-midi,L2,Micro-arrêts,7
+2026-11-11,Après-midi,L2,Micro-arrêts,5
+2026-11-11,Après-midi,L2,Micro-arrêts,3
+2026-11-11,Après-midi,L3,Panne mécanique,1
+2026-11-11,Après-midi,L3,Panne mécanique,24
+2026-11-11,Après-midi,L3,Changement de série,15
+2026-11-11,Après-midi,L3,Réglage qualité,39
+2026-11-11,Après-midi,L3,Réglage qualité,30
+2026-11-11,Après-midi,L3,Micro-arrêts,2
+2026-11-11,Après-midi,L3,Micro-arrêts,7
+2026-11-11,Après-midi,L3,Micro-arrêts,8
+2026-11-12,Matin,L1,Panne mécanique,27
+2026-11-12,Matin,L1,Changement de série,9
+2026-11-12,Matin,L1,Réglage qualité,5
+2026-11-12,Matin,L1,Attente cariste,16
+2026-11-12,Matin,L1,Micro-arrêts,12
+2026-11-12,Matin,L1,Micro-arrêts,5
+2026-11-12,Matin,L1,Micro-arrêts,3
+2026-11-12,Matin,L1,Micro-arrêts,4
+2026-11-12,Matin,L1,Micro-arrêts,1
+2026-11-12,Matin,L2,Attente cariste,11
+2026-11-12,Matin,L2,Micro-arrêts,1
+2026-11-12,Matin,L2,Micro-arrêts,2
+2026-11-12,Matin,L2,Micro-arrêts,3
+2026-11-12,Matin,L2,Micro-arrêts,2
+2026-11-12,Matin,L2,Micro-arrêts,1
+2026-11-12,Matin,L2,Micro-arrêts,2
+2026-11-12,Matin,L2,Micro-arrêts,1
+2026-11-12,Matin,L3,Panne mécanique,17
+2026-11-12,Matin,L3,Réglage qualité,5
+2026-11-12,Matin,L3,Manque matière,32
+2026-11-12,Matin,L3,Micro-arrêts,3
+2026-11-12,Matin,L3,Micro-arrêts,3
+2026-11-12,Matin,L3,Micro-arrêts,4
+2026-11-12,Après-midi,L1,Manque matière,10
+2026-11-12,Après-midi,L1,Manque matière,9
+2026-11-12,Après-midi,L1,Micro-arrêts,1
+2026-11-12,Après-midi,L1,Micro-arrêts,7
+2026-11-12,Après-midi,L1,Micro-arrêts,2
+2026-11-12,Après-midi,L2,Panne mécanique,20
+2026-11-12,Après-midi,L2,Changement de série,3
+2026-11-12,Après-midi,L2,Réglage qualité,52
+2026-11-12,Après-midi,L2,Attente cariste,5
+2026-11-12,Après-midi,L2,Micro-arrêts,4
+2026-11-12,Après-midi,L2,Micro-arrêts,6
+2026-11-12,Après-midi,L2,Micro-arrêts,7
+2026-11-12,Après-midi,L2,Micro-arrêts,4
+2026-11-12,Après-midi,L2,Micro-arrêts,8
+2026-11-12,Après-midi,L2,Micro-arrêts,2
+2026-11-12,Après-midi,L2,Nettoyage non planifié,2
+2026-11-12,Après-midi,L3,Panne mécanique,67
+2026-11-12,Après-midi,L3,Panne mécanique,2
+2026-11-12,Après-midi,L3,Panne mécanique,58
+2026-11-12,Après-midi,L3,Panne mécanique,59
+2026-11-12,Après-midi,L3,Panne mécanique,30
+2026-11-12,Après-midi,L3,Panne mécanique,26
+2026-11-12,Après-midi,L3,Micro-arrêts,1
+2026-11-13,Matin,L1,Panne mécanique,3
+2026-11-13,Matin,L1,Panne électrique,3
+2026-11-13,Matin,L1,Changement de série,13
+2026-11-13,Matin,L1,Attente cariste,3
+2026-11-13,Matin,L1,Micro-arrêts,7
+2026-11-13,Matin,L2,Changement de série,8
+2026-11-13,Matin,L2,Changement de série,20
+2026-11-13,Matin,L2,Réglage qualité,16
+2026-11-13,Matin,L2,Attente cariste,7
+2026-11-13,Matin,L2,Micro-arrêts,3
+2026-11-13,Matin,L2,Micro-arrêts,8
+2026-11-13,Matin,L2,Micro-arrêts,1
+2026-11-13,Matin,L2,Micro-arrêts,7
+2026-11-13,Matin,L2,Micro-arrêts,3
+2026-11-13,Matin,L2,Micro-arrêts,3
+2026-11-13,Matin,L2,Micro-arrêts,3
+2026-11-13,Matin,L2,Nettoyage non planifié,15
+2026-11-13,Matin,L3,Panne mécanique,10
+2026-11-13,Matin,L3,Manque matière,37
+2026-11-13,Matin,L3,Micro-arrêts,3
+2026-11-13,Après-midi,L1,Panne mécanique,16
+2026-11-13,Après-midi,L1,Changement de série,23
+2026-11-13,Après-midi,L1,Changement de série,10
+2026-11-13,Après-midi,L1,Réglage qualité,22
+2026-11-13,Après-midi,L1,Réglage qualité,11
+2026-11-13,Après-midi,L1,Attente cariste,8
+2026-11-13,Après-midi,L1,Attente cariste,5
+2026-11-13,Après-midi,L1,Attente cariste,4
+2026-11-13,Après-midi,L1,Micro-arrêts,4
+2026-11-13,Après-midi,L1,Nettoyage non planifié,37
+2026-11-13,Après-midi,L2,Changement de série,18
+2026-11-13,Après-midi,L2,Changement de série,33
+2026-11-13,Après-midi,L2,Réglage qualité,10
+2026-11-13,Après-midi,L2,Micro-arrêts,2
+2026-11-13,Après-midi,L2,Micro-arrêts,3
+2026-11-13,Après-midi,L2,Micro-arrêts,4
+2026-11-13,Après-midi,L2,Micro-arrêts,1
+2026-11-13,Après-midi,L2,Micro-arrêts,6
+2026-11-13,Après-midi,L2,Micro-arrêts,2
+2026-11-13,Après-midi,L2,Micro-arrêts,5
+2026-11-13,Après-midi,L2,Micro-arrêts,2
+2026-11-13,Après-midi,L3,Panne mécanique,50
+2026-11-13,Après-midi,L3,Changement de série,4
+2026-11-13,Après-midi,L3,Manque matière,27
+2026-11-13,Après-midi,L3,Micro-arrêts,4
+2026-11-13,Après-midi,L3,Micro-arrêts,7
+2026-11-16,Matin,L1,Panne électrique,32
+2026-11-16,Matin,L1,Panne électrique,4
+2026-11-16,Matin,L1,Réglage qualité,2
+2026-11-16,Matin,L1,Réglage qualité,18
+2026-11-16,Matin,L1,Micro-arrêts,3
+2026-11-16,Matin,L1,Micro-arrêts,2
+2026-11-16,Matin,L2,Panne électrique,7
+2026-11-16,Matin,L2,Changement de série,4
+2026-11-16,Matin,L2,Changement de série,39
+2026-11-16,Matin,L2,Réglage qualité,13
+2026-11-16,Matin,L2,Réglage qualité,27
+2026-11-16,Matin,L2,Attente cariste,15
+2026-11-16,Matin,L2,Micro-arrêts,7
+2026-11-16,Matin,L2,Micro-arrêts,6
+2026-11-16,Matin,L2,Micro-arrêts,5
+2026-11-16,Matin,L2,Micro-arrêts,9
+2026-11-16,Matin,L2,Micro-arrêts,1
+2026-11-16,Matin,L2,Micro-arrêts,1
+2026-11-16,Matin,L2,Nettoyage non planifié,20
+2026-11-16,Matin,L3,Panne mécanique,14
+2026-11-16,Matin,L3,Panne mécanique,16
+2026-11-16,Matin,L3,Panne électrique,19
+2026-11-16,Matin,L3,Changement de série,11
+2026-11-16,Matin,L3,Micro-arrêts,2
+2026-11-16,Matin,L3,Nettoyage non planifié,10
+2026-11-16,Après-midi,L1,Attente cariste,6
+2026-11-16,Après-midi,L1,Attente cariste,5
+2026-11-16,Après-midi,L1,Micro-arrêts,3
+2026-11-16,Après-midi,L1,Micro-arrêts,5
+2026-11-16,Après-midi,L1,Micro-arrêts,1
+2026-11-16,Après-midi,L1,Micro-arrêts,7
+2026-11-16,Après-midi,L2,Panne mécanique,20
+2026-11-16,Après-midi,L2,Panne mécanique,26
+2026-11-16,Après-midi,L2,Attente cariste,9
+2026-11-16,Après-midi,L2,Attente cariste,9
+2026-11-16,Après-midi,L2,Micro-arrêts,1
+2026-11-16,Après-midi,L2,Micro-arrêts,1
+2026-11-16,Après-midi,L2,Micro-arrêts,8
+2026-11-16,Après-midi,L2,Micro-arrêts,7
+2026-11-16,Après-midi,L2,Micro-arrêts,8
+2026-11-16,Après-midi,L2,Micro-arrêts,5
+2026-11-16,Après-midi,L2,Micro-arrêts,9
+2026-11-16,Après-midi,L2,Micro-arrêts,2
+2026-11-16,Après-midi,L2,Micro-arrêts,2
+2026-11-16,Après-midi,L2,Nettoyage non planifié,28
+2026-11-16,Après-midi,L2,Nettoyage non planifié,27
+2026-11-16,Après-midi,L3,Panne mécanique,82
+2026-11-16,Après-midi,L3,Panne mécanique,12
+2026-11-16,Après-midi,L3,Panne mécanique,37
+2026-11-16,Après-midi,L3,Attente cariste,10
+2026-11-17,Matin,L1,Panne mécanique,10
+2026-11-17,Matin,L1,Attente cariste,9
+2026-11-17,Matin,L1,Micro-arrêts,2
+2026-11-17,Matin,L1,Micro-arrêts,1
+2026-11-17,Matin,L1,Micro-arrêts,6
+2026-11-17,Matin,L2,Panne mécanique,47
+2026-11-17,Matin,L2,Panne mécanique,10
+2026-11-17,Matin,L2,Changement de série,15
+2026-11-17,Matin,L2,Changement de série,30
+2026-11-17,Matin,L2,Réglage qualité,7
+2026-11-17,Matin,L2,Manque matière,6
+2026-11-17,Matin,L2,Micro-arrêts,6
+2026-11-17,Matin,L2,Micro-arrêts,3
+2026-11-17,Matin,L2,Micro-arrêts,1
+2026-11-17,Matin,L2,Micro-arrêts,5
+2026-11-17,Matin,L2,Micro-arrêts,1
+2026-11-17,Matin,L2,Micro-arrêts,2
+2026-11-17,Matin,L2,Micro-arrêts,1
+2026-11-17,Matin,L2,Micro-arrêts,1
+2026-11-17,Matin,L2,Micro-arrêts,7
+2026-11-17,Matin,L3,Panne mécanique,3
+2026-11-17,Matin,L3,Panne mécanique,7
+2026-11-17,Matin,L3,Panne mécanique,42
+2026-11-17,Matin,L3,Panne mécanique,13
+2026-11-17,Matin,L3,Panne électrique,18
+2026-11-17,Matin,L3,Attente cariste,10
+2026-11-17,Matin,L3,Micro-arrêts,1
+2026-11-17,Après-midi,L1,Panne mécanique,37
+2026-11-17,Après-midi,L1,Attente cariste,4
+2026-11-17,Après-midi,L1,Micro-arrêts,4
+2026-11-17,Après-midi,L1,Micro-arrêts,5
+2026-11-17,Après-midi,L2,Changement de série,38
+2026-11-17,Après-midi,L2,Attente cariste,12
+2026-11-17,Après-midi,L2,Micro-arrêts,2
+2026-11-17,Après-midi,L2,Micro-arrêts,2
+2026-11-17,Après-midi,L2,Micro-arrêts,3
+2026-11-17,Après-midi,L2,Micro-arrêts,7
+2026-11-17,Après-midi,L2,Micro-arrêts,3
+2026-11-17,Après-midi,L2,Micro-arrêts,1
+2026-11-17,Après-midi,L2,Micro-arrêts,2
+2026-11-17,Après-midi,L2,Micro-arrêts,1
+2026-11-17,Après-midi,L2,Micro-arrêts,2
+2026-11-17,Après-midi,L2,Micro-arrêts,10
+2026-11-17,Après-midi,L3,Panne mécanique,9
+2026-11-17,Après-midi,L3,Panne mécanique,5
+2026-11-17,Après-midi,L3,Panne mécanique,30
+2026-11-17,Après-midi,L3,Panne mécanique,20
+2026-11-17,Après-midi,L3,Panne mécanique,29
+2026-11-17,Après-midi,L3,Panne mécanique,8
+2026-11-17,Après-midi,L3,Panne mécanique,15
+2026-11-17,Après-midi,L3,Panne mécanique,19
+2026-11-17,Après-midi,L3,Micro-arrêts,4
+2026-11-17,Après-midi,L3,Micro-arrêts,3
+2026-11-17,Après-midi,L3,Nettoyage non planifié,1
+2026-11-18,Matin,L1,Changement de série,14
+2026-11-18,Matin,L1,Réglage qualité,13
+2026-11-18,Matin,L1,Attente cariste,7
+2026-11-18,Matin,L1,Micro-arrêts,5
+2026-11-18,Matin,L1,Micro-arrêts,3
+2026-11-18,Matin,L2,Changement de série,10
+2026-11-18,Matin,L2,Changement de série,32
+2026-11-18,Matin,L2,Changement de série,8
+2026-11-18,Matin,L2,Micro-arrêts,1
+2026-11-18,Matin,L3,Panne mécanique,8
+2026-11-18,Matin,L3,Panne électrique,7
+2026-11-18,Après-midi,L1,Manque matière,5
+2026-11-18,Après-midi,L1,Manque matière,9
+2026-11-18,Après-midi,L1,Manque matière,7
+2026-11-18,Après-midi,L1,Micro-arrêts,3
+2026-11-18,Après-midi,L1,Micro-arrêts,2
+2026-11-18,Après-midi,L1,Micro-arrêts,4
+2026-11-18,Après-midi,L1,Micro-arrêts,11
+2026-11-18,Après-midi,L1,Micro-arrêts,4
+2026-11-18,Après-midi,L2,Panne mécanique,69
+2026-11-18,Après-midi,L2,Changement de série,15
+2026-11-18,Après-midi,L2,Changement de série,9
+2026-11-18,Après-midi,L2,Changement de série,33
+2026-11-18,Après-midi,L2,Micro-arrêts,1
+2026-11-18,Après-midi,L2,Micro-arrêts,6
+2026-11-18,Après-midi,L2,Micro-arrêts,7
+2026-11-18,Après-midi,L2,Micro-arrêts,2
+2026-11-18,Après-midi,L2,Micro-arrêts,2
+2026-11-18,Après-midi,L2,Micro-arrêts,6
+2026-11-18,Après-midi,L2,Micro-arrêts,2
+2026-11-18,Après-midi,L2,Micro-arrêts,1
+2026-11-18,Après-midi,L2,Nettoyage non planifié,8
+2026-11-18,Après-midi,L3,Panne mécanique,44
+2026-11-18,Après-midi,L3,Panne mécanique,10
+2026-11-18,Après-midi,L3,Changement de série,69
+2026-11-18,Après-midi,L3,Changement de série,24
+2026-11-18,Après-midi,L3,Réglage qualité,2
+2026-11-18,Après-midi,L3,Manque matière,28
+2026-11-18,Après-midi,L3,Micro-arrêts,1
+2026-11-18,Après-midi,L3,Micro-arrêts,8
+2026-11-19,Matin,L1,Panne électrique,6
+2026-11-19,Matin,L1,Changement de série,18
+2026-11-19,Matin,L1,Réglage qualité,27
+2026-11-19,Matin,L1,Attente cariste,16
+2026-11-19,Matin,L1,Attente cariste,8
+2026-11-19,Matin,L1,Micro-arrêts,9
+2026-11-19,Matin,L1,Micro-arrêts,4
+2026-11-19,Matin,L2,Changement de série,2
+2026-11-19,Matin,L2,Changement de série,15
+2026-11-19,Matin,L2,Changement de série,37
+2026-11-19,Matin,L2,Attente cariste,2
+2026-11-19,Matin,L2,Attente cariste,4
+2026-11-19,Matin,L2,Micro-arrêts,4
+2026-11-19,Matin,L2,Micro-arrêts,11
+2026-11-19,Matin,L2,Micro-arrêts,1
+2026-11-19,Matin,L2,Micro-arrêts,2
+2026-11-19,Matin,L3,Panne mécanique,20
+2026-11-19,Matin,L3,Panne mécanique,15
+2026-11-19,Matin,L3,Panne mécanique,23
+2026-11-19,Matin,L3,Micro-arrêts,5
+2026-11-19,Matin,L3,Micro-arrêts,3
+2026-11-19,Matin,L3,Nettoyage non planifié,24
+2026-11-19,Après-midi,L1,Micro-arrêts,4
+2026-11-19,Après-midi,L1,Micro-arrêts,1
+2026-11-19,Après-midi,L1,Micro-arrêts,2
+2026-11-19,Après-midi,L2,Attente cariste,23
+2026-11-19,Après-midi,L2,Micro-arrêts,9
+2026-11-19,Après-midi,L2,Micro-arrêts,2
+2026-11-19,Après-midi,L2,Micro-arrêts,12
+2026-11-19,Après-midi,L2,Micro-arrêts,3
+2026-11-19,Après-midi,L2,Micro-arrêts,14
+2026-11-19,Après-midi,L2,Micro-arrêts,1
+2026-11-19,Après-midi,L2,Micro-arrêts,4
+2026-11-19,Après-midi,L2,Micro-arrêts,1
+2026-11-19,Après-midi,L3,Panne mécanique,52
+2026-11-19,Après-midi,L3,Panne électrique,4
+2026-11-19,Après-midi,L3,Changement de série,54
+2026-11-19,Après-midi,L3,Manque matière,22
+2026-11-19,Après-midi,L3,Micro-arrêts,1
+2026-11-19,Après-midi,L3,Micro-arrêts,4

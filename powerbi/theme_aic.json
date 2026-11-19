@@ -1,0 +1,63 @@
+{
+  "name": "AIC performance",
+  "dataColors": [
+    "#13233A",
+    "#1F7A8C",
+    "#D99A1E",
+    "#2E8B57",
+    "#C0392B",
+    "#6F8DB5",
+    "#9AA5B1",
+    "#5B6B7F"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#13233A",
+  "tableAccent": "#1F7A8C",
+  "good": "#2E8B57",
+  "neutral": "#D99A1E",
+  "bad": "#C0392B",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#13233A",
+      "fontSize": 13
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#66768A",
+      "fontSize": 10
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#13233A",
+      "fontSize": 28
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#E3E8EE"
+              }
+            },
+            "radius": 12
+          }
+        ]
+      }
+    }
+  }
+}

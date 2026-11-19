@@ -1,0 +1,4 @@
+ligne,nom,temps_cycle_s,trs_cible,objectif_equipe
+L1,Ligne 1 · Assemblage,30,0.75,680
+L2,Ligne 2 · Conditionnement,20,0.8,1080
+L3,Ligne 3 · Usinage,75,0.65,235
